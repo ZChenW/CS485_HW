@@ -364,8 +364,8 @@ im not a religi person but i do think sometim god made you for me mariann shut t
 \hline
 \textbf{Model} & \textbf{Accuracy} & \textbf{Macro-F1} \\
 \hline
-Baseline: Binary BOW + Logistic Regression & 0.4560 & 0.2413 \\
-Improved: TF-IDF + Logistic Regression & 0.3840 & 0.2125 \\
+Baseline: Binary BOW & 0.4560 & 0.2413 \\
+Improved: TF-IDF & 0.3840 & 0.2125 \\
 \hline
 \end{tabular}
 \end{table}
@@ -375,6 +375,22 @@ Improved: TF-IDF + Logistic Regression & 0.3840 & 0.2125 \\
 \noindent I think the reason is that the dataset is small and the class distribution is severely imbalanced.
 
 
+\newpage
 \subsection*{4.3 Extra Credit: Bag of embeddings LogReg}
+\begin{table}[h]
+\centering
+\begin{tabular}{lcc}
+\hline
+\textbf{Model} & \textbf{Accuracy} & \textbf{Macro-F1} \\
+\hline
+Baseline: Binary BOW & 0.4560 & 0.2413 \\
+Improved: TF-IDF & 0.3840 & 0.2125 \\
+Glove 25d &  0.5360   &  0.3550\\
+GloVe 50d & 0.5360 & 0.3357 \\
+GloVe 100d &0.5520   & 0.2903\\
+Glove 200d &0.5280   &  0.3292\\
+\hline
+\end{tabular}
+\end{table}
 
 \end{document}
