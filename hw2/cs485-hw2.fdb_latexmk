@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1774216449.8488 "cs485-hw2.tex" "cs485-hw2.pdf" "cs485-hw2" 1774216450.08091 2
+["pdflatex"] 1774218812.8656 "cs485-hw2.tex" "cs485-hw2.pdf" "cs485-hw2" 1774218813.10853 2
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1772820570 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1772820570 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1772820570 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -94,8 +94,8 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1772820570 43569 fd570f2fa160877d211e859f687312ba ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1772916876 5385779 47c0c393a77fd4a098bacfd57d66b88a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1772916870 2328184 151f21431166be5f4661f51cb7a2e499 ""
-  "cs485-hw2.aux" 1774216450.04891 362 2ece8507c663ba34c025a79118e2a89c "pdflatex"
-  "cs485-hw2.tex" 1774216448.04614 13230 68765c2badc1b5532b3dd2d7ef26f8c4 ""
+  "cs485-hw2.aux" 1774218813.07081 362 8a56755cd998dfc115942772dc026d00 "pdflatex"
+  "cs485-hw2.tex" 1774218812.44781 13559 090d3e3aca397b93ffb2d78094195af7 ""
   (generated)
   "cs485-hw2.aux"
   "cs485-hw2.log"
