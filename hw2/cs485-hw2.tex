@@ -1,0 +1,380 @@
+\documentclass[11pt]{article}
+\usepackage{xspace,mathrsfs}
+\usepackage{graphicx,rotating}
+%\usepackage{graphicx,pstricks,rotating}
+
+\usepackage{url}
+%\usepackage{latexsym}
+\usepackage{amscd,amsfonts,amsmath,amssymb}
+\usepackage{color}
+\usepackage{longtable}
+\usepackage{multirow,setspace}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\renewcommand{\topfraction}{0.9}
+\renewcommand{\textfraction}{0.1}
+
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{fancyhdr}
+
+
+\def\shownotes{0}   % set 1 for version with author notes
+                    % set 0 for no notes
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Some macros (you can ignore everything until "end of macros")
+\topmargin 0pt \advance \topmargin by -\headheight \advance
+\topmargin by -\headsep
+
+\textheight 8.9in
+\oddsidemargin 0pt \evensidemargin \oddsidemargin \marginparwidth
+0.5in
+
+\textwidth 6.5in
+
+%%%%%%
+\DeclareMathAlphabet{\mathsl}{OT1}{cmr}{m}{sl}
+\DeclareMathAlphabet{\mathsc}{OT1}{cmr}{m}{sc}
+\DeclareMathAlphabet{\mathslbf}{OT1}{cmr}{bx}{sl}
+
+\newcommand{\procfont}[1]{\mathsc{#1}}
+\newcommand{\tablefont}[1]{\mathsf{#1}}
+\newcommand{\Initialize}{\procfont{Initialize}}
+\newcommand{\Finalize}{\procfont{Finalize}}
+\newcommand{\FinalizeCodeNoarg}{\underline{\textrm{proc} $\Finalize$}}
+\newcommand{\Onquery}[2]{\underline{\textrm{proc} $#1(#2)$}}
+\newcommand{\InitializeCode}{\underline{\textrm{proc} $\Initialize$}}
+\newcommand{\FinalizeCode}[1]{\underline{\textrm{proc} $\Finalize(#1)$}}
+
+\newcommand{\fprff}{\algfont{f}}
+
+\newcommand{\gamefont}[1]{\mathrm{#1}}
+
+\newcommand{\getsr}{{{\,\leftarrow{\hspace*{-3pt}\raisebox{.75pt}{$\scriptscriptstyle\$$}}\,}}}
+\newcommand{\bits}{\{0,1\}}
+\newcommand{\bit}{\{0,1\}}
+\newcommand{\Ex}{\mathbb{E}}
+\newcommand{\eqdef}{\stackrel{def}{=}}
+\newcommand{\To}{\rightarrow}
+\newcommand{\e}{\epsilon}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\ie}{\emph{i.e.,} }
+\newcommand{\eg}{\emph{e.g.,} }
+\newcommand{\VAR}{\mathrm{VAR}}
+\newcommand{\Prob}[1]{{\Pr\left[\,{#1}\,\right]}}
+\newcommand{\probb}[2]{{\Pr}_{#1}\left[\,{#2}\,\right]}
+\newcommand{\probbs}[3]{{\Pr}^{#1}_{#2}\left[\,{#3}\,\right]}
+\newcommand{\probbp}[2]{{\Pr}_{#1}'\left[\,{#2}\,\right]}
+\newcommand{\Probb}[2]{{{\Pr}_{#1}\left[\,{#2}\,\right]}}
+\newcommand{\Probbp}[2]{{{\Pr}_{#1}'\left[\,{#2}\,\right]}}
+\newcommand{\condProb}[2]{{\Pr}\left[\,#1\,|\,#2\,\right]}
+\newcommand{\CondProb}[2]{{\Pr}\left[\: #1\:\left|\right.\:#2\:\right]}
+\newcommand{\CondProbb}[3]{{\Pr}_{#1}\left[\: #2\:\left|\right.\:#3\:\right]}
+\newcommand{\expect}[1]{{{\mathbf{E}}[{#1}]}}
+\newcommand{\expectt}[1]{{{\mathbf{E}}\left[{#1}\right]}}
+\newcommand{\qquadd}{{\quad}}
+\newcommand{\next}{ \: ; \: }
+\newcommand{\group}{\mathbb{G}}
+\newcommand{\true}{\mathsf{true}}
+\newcommand{\false}{\mathsf{false}}
+\newcommand{\AND}{\;\wedge\;}
+\newcommand{\bad}{\mathsf{bad}}
+\newcommand{\schemefont}[1]{{\mathsf{#1}}}
+\newcommand{\algfont}[1]{{\mathsf{#1}}}
+\newcommand{\Adv}{\mathbf{Adv}}
+\newcommand{\AdvGen}[3]{\mathbf{Adv}^{\mathrm{#1}}_{#2}(#3)}
+\newcommand{\Exp}{\mathbf{Exp}}
+\newcommand{\LR}{\mathsf{LR}}
+
+\newcommand{\calA}{{\cal A}}
+\newcommand{\calB}{{\cal B}}
+\newcommand{\calC}{{\cal C}}
+\newcommand{\calF}{{\cal F}}
+\newcommand{\calK}{{\cal K}}
+\newcommand{\calM}{{\cal M}}
+\newcommand{\calO}{{\cal O}}
+\newcommand{\calR}{{\cal R}}
+\newcommand{\calH}{{\cal H}}
+\newcommand{\calG}{{\cal G}}
+\newcommand{\calD}{{\cal D}}
+\newcommand{\calE}{{\cal E}}
+\newcommand{\calP}{{\cal P}}
+\newcommand{\calS}{{\cal S}}
+\newcommand{\calT}{{\cal T}}
+\newcommand{\calU}{{\cal U}}
+\newcommand{\calX}{{\cal X}}
+\newcommand{\calV}{{\cal V}}
+\newcommand{\calW}{{\cal W}}
+\newcommand{\calY}{{\cal Y}}
+
+\newcommand{\Keys}{\mathsf{Keys}}
+\newcommand{\Dom}{\mathsf{Dom}}
+\newcommand{\Rng}{\mathsf{Rng}}
+
+\newcommand{\main}{\procfont{Game}}
+\newcommand{\gamesfontsize}{\small}
+\renewcommand{\captionfont}{}
+\newcommand{\indd}{\hspace*{12pt}}
+
+\newcommand{\mpage}[2]{\begin{minipage}{#1\textwidth} #2 \end{minipage}}
+\newcommand{\fpage}[2]{\framebox{\begin{minipage}[t]{#1\textwidth}\setstretch{1.2}\gamesfontsize  #2 \end{minipage}}}
+\newcommand{\hfpages}[3]{\hfpagess{#1}{#1}{#2}{#3}}
+\newcommand{\hfpagess}[4]{
+        \begin{tabular}{c@{\hspace*{.5em}}c}
+        \framebox{\begin{minipage}[t]{#1\textwidth}\setstretch{1.2}\gamesfontsize #3 \end{minipage}}
+        &
+        \framebox{\begin{minipage}[t]{#2\textwidth}\setstretch{1.2}\gamesfontsize #4 \end{minipage}}
+        \end{tabular}
+    }
+
+\newcommand{\gameName}[1]{\underline{$\main$ #1} \\[2pt]}
+\newcommand{\procName}[1]{\underline{#1} \\[2pt]}
+\newcommand{\bea}{\begin{eqnarray*}}
+\newcommand{\eea}{\end{eqnarray*}}
+
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{clm}[thm]{Claim}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{rem}[thm]{Remark}
+
+%%%%%%%  Author Notes %%%%%%%
+\ifnum\shownotes=1
+\newcommand{\authnote}[2]{{ $\ll$\textsf{\footnotesize #2}$\gg$}}
+\else
+\newcommand{\authnote}[2]{}
+\fi
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% end of macros
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\title{CS 485: Homework 2}
+\date{}
+
+\usepackage{lastpage}
+\pagestyle{fancy}
+\lhead{\footnotesize \parbox{11cm}{COMPSCI 485, UMass Amherst, Spring 2026} }
+\renewcommand{\headheight}{24pt}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{fancy}
+
+\noindent \subsection*{2 Phase 2: Annotations analysis:}
+\noindent \subsubsection*{2.1 Annotator Feedback} 
+
+In our discussions, this tagging system is reasonable; Many tweets are easy to categorize.\\
+
+\noindent The greatest challenge arises at the boundary between PERS and OTHER. In practice, many tweets express emotions without explicitly identifying a subject or topic, making it difficult to determine whether they should be classified as personal expressions or as unclassifiable. \\
+
+\noindent We also found that a lack of context is a major source of disagreement. Many tweets use nicknames something else, which only make sense if the annotator recognizes them. This particularly affects the distinction between ENT, SPORT, and PERS.
+
+\subsubsection*{2.2 Inter-annotator agreement}
+\begin{table}[htbp]
+\centering
+\begin{tabular}{lccccc}
+\hline
+      & PERS & ENT & SPORT & SOC & OTHER \\
+\hline
+PERS  & 310  & 18  & 3     & 8   & 18    \\
+ENT   & 47   & 87  & 5     & 2   & 5     \\
+SPORT & 5    & 3   & 34    & 1   & 2     \\
+SOC   & 13   & 1   & 0     & 14  & 1     \\
+OTHER & 74   & 13  & 3     & 2   & 81    \\
+\hline
+\end{tabular}
+\caption{Confusion matrix}
+\label{tab:confusion-matrix}
+\end{table}
+
+\begin{itemize}
+        \item Alex vs Basim
+                \begin{itemize}
+                        \item $p_e = 0.3287$
+                        \item $p_o = 0.716$
+                        \item $k = 0.5770$
+                \end{itemize}
+        \item Alex vs ZiChen
+                \begin{itemize}
+                        \item $p_e = 0.3527$
+                        \item $p_o = 0.684$
+                        \item $k = 0.5118$
+                \end{itemize}           
+        \item Basim vs ZiChen
+                \begin{itemize}
+                        \item $p_e = 0.3849$
+                        \item $p_o = 0.704$
+                        \item $k = 0.5187$
+                \end{itemize}   
+        \item Alex vs Basim vs ZiChen (Fleiss’ kappa)
+                \begin{itemize}
+                        \item $p_e = 0.3605$
+                        \item $p_o = 0.7013$
+                        \item $k = 0.5330$
+                \end{itemize}   
+\end{itemize}              
+
+
+\subsubsection*{2.3 Aggregate to final dataset}
+\noindent If all three annotators agree, that label is adopted; if two out of the three select the same label, the majority vote remains; if the three annotators assign different labels, I will make a decision on the label.\\
+
+\noindent Guidelines: First, if a tweet primarily expresses an emotion but does not address a specific topic, label it as PERS. Second, if the text is too short or too vague, label it as OTHER.
+
+\subsubsection*{3.1 Logistic regression learning}
+
+\noindent \textbf{3.1.1}
+\[\frac{\partial l}{\partial \beta} = (1 - g(z))x_1 = 0\]
+
+\noindent No update
+\\
+
+\noindent \textbf{3.1.2}
+\[\frac{\partial l}{\partial \beta} = (1 - g(z))x_1 = (1-0.6)\times 1 = 0.4\]
+\[\beta_1^{new} = \beta_1^{old} + 0.4\]
+
+\noindent Weight increases 0.4\\
+
+\noindent \textbf{3.1.3}
+\[\frac{\partial l}{\partial \beta} = (1 - g(z))x_1 = (1-0.999)\times 1 = 0.001\]
+\[\beta_1^{new} = \beta_1^{old} + 0.001\]
+
+\noindent Weights increases 0.001\\
+
+\noindent Intuition:
+As the loss decreases, there is no longer a need to make significant adjustments to the parameters.\\
+
+\noindent Meaning:
+The gradient decreases when the model is on the right track. However, one must also be cautious of vanishing gradients.
+
+\subsubsection*{3.2 Precision and recall: class distribution}
+
+\noindent Accuracy increases; Precision remains unchanged; Recall remains unchanged.\\
+
+\noindent Accuracy is highly influenced by class distribution.
+Precision and recall focus more on positive class.
+
+\subsection*{4 Phase 2 continued: NLP experiments}
+
+\subsubsection*{4.1 BOW LogReg}
+
+\subsubsection*{4.1.1 Features and preprocessing}
+\begin{itemize}
+        \item Features
+                \begin{itemize}
+\item Baseline: binary bag of words with \texttt{CountVectorizer(binary=True)}
+\item Improved Model: TF-IDF with unigram and bigram candidates
+                \end{itemize}
+        \item Pre-Processing
+                \begin{itemize}
+                        \item Normalized line breaks and lowercased all text
+\item Removed URLs
+\item Collapsed repeated whitespace into a single space
+                \end{itemize}
+        
+        \item Normalization
+                \begin{itemize}
+                        \item Improved model used L2-normalized TF-IDF
+\item Baseline do not use additional feature normalization.
+                \end{itemize}
+        \item Hyperparameter tuning and model selection
+                \begin{itemize}
+                        \item GridSearchCV and macro-F1
+                        \item min\_d, ngram\_range, C, class\_weight
+                \end{itemize}
+\end{itemize}
+
+
+\subsubsection*{4.1.2 Results}
+\\noindent \textbf{Overall Accuracy:} 0.4560
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lcc}
+\hline
+\textbf{Class} & \textbf{Precision} & \textbf{Recall} \\
+\hline
+ENT   & 0.20 & 0.12 \\
+OTHER & 0.31 & 0.91 \\
+PERS  & 0.73 & 0.50 \\
+SOC   & 0.00 & 0.00 \\
+SPORT & 0.00 & 0.00 \\
+\hline
+\end{tabular}
+\end{table}
+
+\newpage
+\subsubsection*{4.1.3 Model insight: parameters}
+\begin{table}[h]
+\centering
+\begin{tabular}{p{1.8cm} p{10.5cm}}
+\hline
+\textbf{Class} & \textbf{Top-10 highest weighted words} \\
+\hline
+ENT & thi, vs, song, read, want, miss, wa, pleas, dad, na \\
+OTHER & fuck, lt, inspir, deserv, congrat, lovelyz, mother, apt, bean, intelectu \\
+PERS & don, god, life, say, good, happi, lmao, thing, think, care \\
+SOC & straight, sure, exist, actual, peopl, apm, sag, union, repres, npr \\
+SPORT & tho, wa, piss, belichick, colleg, footbal, month, problem, stanton, lost \\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent SPORT is related to sports, such as “Belichick,” “football,” and “Stanton”;
+
+\noindent SOC is related to society and politics, such as “union,” “represent,” and “NPR”;
+
+\noindent PERS is related to emotions, such as “life,” “good,” “happy,” and “care.”
+
+\noindent However, some of the higher-weighted words are too general (“thi,” “wa,” “don”), the model has been affected by insufficient data.
+
+\subsubsection*{4.1.4 Model insight: worst mistakes}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{p{8.5cm} c c c}
+\hline
+\textbf{Text} & \textbf{True} & \textbf{Pred} & \textbf{Confidence} \\
+\hline
+the church is homophob the in game pope is fuck gay my man & PERS & OTHER & 0.3201 \\
+i swear even with thi fuck up wrist i need that fade from a few bitch nigga i ll prove em a bitch frfr & PERS & OTHER & 0.3183 \\
+im not a religi person but i do think sometim god made you for me mariann shut the fuck up sob & PERS & OTHER & 0.2935 \\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent In these three samples, the true labels are all PERS, but the model predicted them all as OTHER. I think the reason is that these examples contain a lot of fuck words, and the model has learned to classify these words as belonging to the OTHER.
+
+\noindent One possible way to improve this is to use a cleaner preprocessing method.
+
+
+\subsection*{4.2 Improved model}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lcc}
+\hline
+\textbf{Model} & \textbf{Accuracy} & \textbf{Macro-F1} \\
+\hline
+Baseline: Binary BOW + Logistic Regression & 0.4560 & 0.2413 \\
+Improved: TF-IDF + Logistic Regression & 0.3840 & 0.2125 \\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent The baseline model achieves higher accuracy (0.4560 vs 0.3840) and a higher macro-F1 score (0.2413 vs 0.2125). TF-IDF is not a very suitable method.
+
+\noindent I think the reason is that the dataset is small and the class distribution is severely imbalanced.
+
+
+\subsection*{4.3 Extra Credit: Bag of embeddings LogReg}
+
+\end{document}

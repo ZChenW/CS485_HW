@@ -14,7 +14,7 @@ echo "Question 1.5"
 grep -E "^[[:space:]]{10,}[A-Z][A-Z0-9 .,'-]*([[:space:]]*\\([^)]*\\))?[[:space:]]*$" lotr_script.txt |
 	sed -E 's/^ +//; s/ *\([^)]*\)//g; s/ +$//; s/  +/ /g' |
 	sort -u
-echo "Implemented it"
+echo "I Implemented"
 
 # First, extract all lines of dialogue in this script.
 # Then, normalize and tokenize this text such that all alphabetic characters are converted to lowercase and words are sequences of alphabetic characers.
@@ -66,10 +66,10 @@ d {
 	sort |
 	uniq -c |
 	sort -nr |
-	#head -20 |
+	head -20 |
 	python3 -c "import sys; out=[];
 for line in sys.stdin:
     c,w=line.split()
     out.append((w, int(c)))
 print(out)"
-#echo "Not Implemented"
+#echo "I Implemented"

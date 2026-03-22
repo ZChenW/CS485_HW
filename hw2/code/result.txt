@@ -1,0 +1,284 @@
+Train size: 100
+Dev size:   25
+Test size:  125
+Using 2-fold CV (smallest class count = 2)
+Fitting 2 folds for each of 36 candidates, totalling 72 fits
+========================================================================================================================
+Best Baseline Params:
+{'clf__C': 0.1, 'clf__class_weight': 'balanced', 'vect__min_df': 1, 'vect__ngram_range': (1, 1)}
+Best CV Macro-F1: 0.2735
+
+Dev-set performance for tuned baseline:
+========================================================================================================================
+Tuned Baseline on Dev
+Accuracy: 0.5200
+Macro-F1: 0.2568
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         ENT       0.00      0.00      0.00         5
+       OTHER       0.42      1.00      0.59         5
+        PERS       0.80      0.62      0.70        13
+         SOC       0.00      0.00      0.00         1
+       SPORT       0.00      0.00      0.00         1
+
+    accuracy                           0.52        25
+   macro avg       0.24      0.32      0.26        25
+weighted avg       0.50      0.52      0.48        25
+
+Confusion Matrix:
+[[0 4 1 0 0]
+ [0 5 0 0 0]
+ [2 3 8 0 0]
+ [0 0 1 0 0]
+ [1 0 0 0 0]]
+Labels order: [np.str_('ENT'), np.str_('OTHER'), np.str_('PERS'), np.str_('SOC'), np.str_('SPORT')]
+========================================================================================================================
+Final Tuned Baseline on Test
+Accuracy: 0.4560
+Macro-F1: 0.2413
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         ENT       0.20      0.12      0.15        17
+       OTHER       0.31      0.91      0.47        22
+        PERS       0.73      0.50      0.59        70
+         SOC       0.00      0.00      0.00         7
+       SPORT       0.00      0.00      0.00         9
+
+    accuracy                           0.46       125
+   macro avg       0.25      0.31      0.24       125
+weighted avg       0.49      0.46      0.43       125
+
+Confusion Matrix:
+[[ 2 12  3  0  0]
+ [ 0 20  2  0  0]
+ [ 6 26 35  0  3]
+ [ 0  1  6  0  0]
+ [ 2  5  2  0  0]]
+Labels order: [np.str_('ENT'), np.str_('OTHER'), np.str_('PERS'), np.str_('SOC'), np.str_('SPORT')]
+Top Features Per Class
+
+Class: ENT
+thi                  0.1410
+vs                   0.1328
+song                 0.1298
+read                 0.1260
+want                 0.1220
+miss                 0.1176
+wa                   0.1126
+pleas                0.1086
+dad                  0.0808
+na                   0.0808
+
+Class: OTHER
+fuck                 0.2446
+lt                   0.1138
+inspir               0.0698
+deserv               0.0698
+congrat              0.0698
+lovelyz              0.0698
+mother               0.0698
+apt                  0.0689
+bean                 0.0684
+intelectu            0.0682
+
+Class: PERS
+don                  0.1749
+god                  0.1278
+life                 0.1061
+say                  0.1038
+good                 0.0854
+happi                0.0820
+lmao                 0.0791
+thing                0.0747
+think                0.0727
+care                 0.0543
+
+Class: SOC
+straight             0.3727
+sure                 0.3727
+exist                0.3727
+actual               0.3672
+peopl                0.3611
+apm                  0.3333
+sag                  0.3333
+union                0.3333
+repres               0.3333
+npr                  0.3333
+
+Class: SPORT
+tho                  0.3525
+wa                   0.2990
+piss                 0.2194
+belichick            0.2194
+colleg               0.2173
+footbal              0.2173
+month                0.2173
+problem              0.2075
+stanton              0.2075
+lost                 0.2075
+Top Confident Mistakes
+
+Mistake #1
+Text: the church is homophob the in game pope is fuck gay my man
+Gold: PERS
+Pred: OTHER
+Confidence: 0.3201
+
+Mistake #2
+Text: i swear even with thi fuck up wrist i need that fade from a few bitch nigga i ll prove em a bitch frfr
+Gold: PERS
+Pred: OTHER
+Confidence: 0.3183
+
+Mistake #3
+Text: im not a religi person but i do think sometim god made you for me mariann shut the fuck up sob
+Gold: PERS
+Pred: OTHER
+Confidence: 0.2935
+Using 2-fold CV (smallest class count = 2)
+Fitting 2 folds for each of 36 candidates, totalling 72 fits
+========================================================================================================================
+Best Improved Model Params:
+{'clf__C': 0.1, 'clf__class_weight': 'balanced', 'vect__min_df': 1, 'vect__ngram_range': (1, 1)}
+Best CV Macro-F1: 0.3386
+
+Dev-set performance for tuned improved model:
+========================================================================================================================
+Tuned Improved Model on Dev
+Accuracy: 0.3600
+Macro-F1: 0.1733
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         ENT       0.00      0.00      0.00         5
+       OTHER       1.00      0.20      0.33         5
+        PERS       0.47      0.62      0.53        13
+         SOC       0.00      0.00      0.00         1
+       SPORT       0.00      0.00      0.00         1
+
+    accuracy                           0.36        25
+   macro avg       0.29      0.16      0.17        25
+weighted avg       0.44      0.36      0.34        25
+
+Confusion Matrix:
+[[0 0 5 0 0]
+ [1 1 3 0 0]
+ [5 0 8 0 0]
+ [0 0 1 0 0]
+ [1 0 0 0 0]]
+Labels order: [np.str_('ENT'), np.str_('OTHER'), np.str_('PERS'), np.str_('SOC'), np.str_('SPORT')]
+========================================================================================================================
+Final Tuned Improved Model on Test
+Accuracy: 0.3840
+Macro-F1: 0.2125
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         ENT       0.20      0.12      0.15        17
+       OTHER       0.18      0.14      0.15        22
+        PERS       0.49      0.57      0.53        70
+         SOC       0.00      0.00      0.00         7
+       SPORT       0.18      0.33      0.23         9
+
+    accuracy                           0.38       125
+   macro avg       0.21      0.23      0.21       125
+weighted avg       0.35      0.38      0.36       125
+
+Confusion Matrix:
+[[ 2  2 13  0  0]
+ [ 2  3 17  0  0]
+ [ 4 12 40  0 14]
+ [ 0  0  7  0  0]
+ [ 2  0  4  0  3]]
+Labels order: [np.str_('ENT'), np.str_('OTHER'), np.str_('PERS'), np.str_('SOC'), np.str_('SPORT')]
+Top Features Per Class
+
+Class: ENT
+vs                   0.0695
+itzyyyyi             0.0595
+dad                  0.0595
+na                   0.0595
+stream               0.0595
+song                 0.0581
+thi                  0.0566
+taught               0.0542
+obvious              0.0542
+tigrex               0.0542
+
+Class: OTHER
+fuck                 0.1887
+mother               0.0745
+congrat              0.0745
+lovelyz              0.0745
+deserv               0.0745
+inspir               0.0745
+lt                   0.0737
+love                 0.0658
+dni                  0.0571
+header               0.0561
+
+Class: PERS
+don                  0.0777
+god                  0.0717
+life                 0.0577
+happi                0.0504
+good                 0.0465
+say                  0.0425
+lmao                 0.0395
+august               0.0315
+hand                 0.0307
+pleas                0.0301
+
+Class: SOC
+sure                 0.2687
+straight             0.2687
+exist                0.2687
+actual               0.2452
+variou               0.2350
+npr                  0.2350
+repres               0.2350
+sag                  0.2350
+union                0.2350
+apm                  0.2350
+
+Class: SPORT
+tho                  0.2096
+wa                   0.1584
+piss                 0.1511
+belichick            0.1511
+footbal              0.1317
+colleg               0.1317
+month                0.1317
+nketiah              0.1258
+ball                 0.1258
+icl                  0.1258
+Top Confident Mistakes
+
+Mistake #1
+Text: the church is homophob the in game pope is fuck gay my man
+Gold: PERS
+Pred: OTHER
+Confidence: 0.2499
+
+Mistake #2
+Text: i swear even with thi fuck up wrist i need that fade from a few bitch nigga i ll prove em a bitch frfr
+Gold: PERS
+Pred: OTHER
+Confidence: 0.2319
+
+Mistake #3
+Text: gen z wa a mistak
+Gold: PERS
+Pred: SPORT
+Confidence: 0.2281
+========================================================================================================================
+Results Table
+Model                                      Accuracy   Macro-F1
+Final Tuned Baseline                         0.4560     0.2413
+Final Tuned Improved TF-IDF                  0.3840     0.2125
