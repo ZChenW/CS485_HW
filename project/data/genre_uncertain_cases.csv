@@ -1,0 +1,1276 @@
+instruction_id,genre_raw,genre_candidates,genre_candidate_labels,genre_norm,reason
+11396_34249_0,Beach/summer fiction,"[""beach"", ""summer fiction""]",[],other,no top-label rule matched
+15421_55306_0,Linguistics,"[""linguistics""]",[],other,no top-label rule matched
+13415_24351_0,,[],[],other,missing genre_raw
+19cTexts_1870-79_EdwaELF_batch356,"Non-fiction, historical account","[""non fiction"", ""historical account""]","[""nonfiction_essay"", ""historical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+21429_73708_0,Cultural analysis,"[""cultural analysis""]",[],other,no top-label rule matched
+19cTexts_1860-69_LeveCLA_batch174,,[],[],other,missing genre_raw
+12276_40158_0,,[],[],other,missing genre_raw
+3499_15127_0,Family fiction,"[""family fiction""]",[],other,no top-label rule matched
+55_53896_0,"Fantasy, children's literature","[""fantasy"", ""children s literature""]","[""speculative"", ""children_young_adult""]",speculative,compound genre maps to multiple normalized labels
+63998_1482_1,Anthropological text,"[""anthropological text""]",[],other,no top-label rule matched
+1144_115667_1,,[],[],other,missing genre_raw
+16413_58019_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+32245_76329_0,"Fiction, Romance","[""fiction"", ""romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+270_111250_0,"Fantasy, children's literature","[""fantasy"", ""children s literature""]","[""speculative"", ""children_young_adult""]",speculative,compound genre maps to multiple normalized labels
+14144_52100_0,Scientific literature,"[""scientific literature""]",[],other,no top-label rule matched
+12246_39693_0,,[],[],other,missing genre_raw
+6833_8234_0,,[],[],other,missing genre_raw
+19cTexts_1830-39_ClarGE4_batch778,Biographical,"[""biographical""]",[],other,no top-label rule matched
+1097_57185_0,,[],[],other,missing genre_raw
+20061_70606_0,"Slice of life, romance","[""slice of life"", ""romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+20253_71454_0,"Fiction, possibly romance","[""fiction"", ""possibly romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+11879_36983_0,,[],[],other,missing genre_raw
+11494_34940_0,Moral tale,"[""moral tale""]",[],other,no top-label rule matched
+19cTexts_1840-49_OwenRLC_batch104,Scientific or biological text,"[""scientific or biological text""]",[],other,no top-label rule matched
+20639_72123_0,,[],[],other,missing genre_raw
+2807_74537_0,"Mystery, adventure","[""mystery"", ""adventure""]","[""mystery_crime"", ""adventure""]",mystery_crime,compound genre maps to multiple normalized labels
+2393_131412_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+11302_33210_0,Instructional manual,"[""instructional manual""]",[],other,no top-label rule matched
+11767_36786_0,Personal letter,"[""personal letter""]",[],other,no top-label rule matched
+12844_45570_0,,[],[],other,missing genre_raw
+19cTexts_1840-49_LeveCSP_batch78,,[],[],other,missing genre_raw
+642_120268_1,,[],[],other,missing genre_raw
+61960_78698_0,Animal fable,"[""animal fable""]",[],other,no top-label rule matched
+2860_49778_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+11207_32250_0,Speech,"[""speech""]",[],other,no top-label rule matched
+1026_36366_0,Diary or journal entry,"[""diary or journal entry""]",[],other,no top-label rule matched
+910_113496_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+14236_52189_0,,[],[],other,missing genre_raw
+19cTexts_1830-39_WilbRLW2_batch138,Political literature,"[""political literature""]",[],other,no top-label rule matched
+64676_1622_0,Oral storytelling,"[""oral storytelling""]",[],other,no top-label rule matched
+12999_46899_0,,[],[],other,missing genre_raw
+17889_64310_0,Opera libretto,"[""opera libretto""]",[],other,no top-label rule matched
+8669_17684_0,Sentimental fiction,"[""sentimental fiction""]",[],other,no top-label rule matched
+910_113471_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+320_298_1,,[],[],other,missing genre_raw
+14816_53563_0,,[],[],other,missing genre_raw
+19cTexts_1880-89_FarrFLF_batch455,Sermon,"[""sermon""]",[],other,no top-label rule matched
+5095_1381_0,"Adventure, science fiction","[""adventure"", ""science fiction""]","[""adventure"", ""speculative""]",adventure,compound genre maps to multiple normalized labels
+12331_40440_0,Surreal fiction,"[""surreal fiction""]",[],other,no top-label rule matched
+14995_53811_1,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+271_54097_0,Moralistic fiction,"[""moralistic fiction""]",[],other,no top-label rule matched
+3185_31880_0,,[],[],other,missing genre_raw
+19cTexts_1860-69_FarrACH_batch294,Theological text,"[""theological text""]",[],other,no top-label rule matched
+6648_7103_0,Epic,"[""epic""]",[],other,no top-label rule matched
+910_113506_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+19cTexts_1800-09_ScotWMS1_batch139,Ballad,"[""ballad""]",[],other,no top-label rule matched
+14622_53239_0,,[],[],other,missing genre_raw
+15845_56902_0,Literary analysis,"[""literary analysis""]",[],other,no top-label rule matched
+19cTexts_1850-59_BarnPLP_batch64,,[],[],other,missing genre_raw
+20006_70488_0,,[],[],other,missing genre_raw
+2947_55520_0,,[],[],other,missing genre_raw
+12726_44133_0,"Fiction, social commentary","[""fiction"", ""social commentary""]","[""general_fiction"", ""nonfiction_essay""]",general_fiction,compound genre maps to multiple normalized labels
+141_69932_0,"Fiction, possibly domestic drama","[""fiction"", ""possibly domestic drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+14621_53228_0,Description of a high society event,"[""description of a high society event""]",[],other,no top-label rule matched
+5104_2670_0,Fairytale,"[""fairytale""]",[],other,no top-label rule matched
+8863_18387_0,"Travel writing, adventure","[""travel writing"", ""adventure""]","[""nonfiction_essay"", ""adventure""]",nonfiction_essay,compound genre maps to multiple normalized labels
+19cTexts_1840-49_PierJAP_batch69,Hymn,"[""hymn""]",[],other,no top-label rule matched
+11285_32667_0,Literature about illness and recovery,"[""literature about illness"", ""recovery""]",[],other,no top-label rule matched
+10662_82894_0,Adventure/Fantasy,"[""adventure"", ""fantasy""]","[""adventure"", ""speculative""]",adventure,compound genre maps to multiple normalized labels
+47869_77982_0,,[],[],other,missing genre_raw
+20062_70884_0,Political literature,"[""political literature""]",[],other,no top-label rule matched
+2947_55537_0,,[],[],other,missing genre_raw
+17179_61029_0,,[],[],other,missing genre_raw
+12399_41090_0,Fable,"[""fable""]",[],other,no top-label rule matched
+12889_45883_1,Folklore,"[""folklore""]",[],other,no top-label rule matched
+14904_53622_0,Legal document,"[""legal document""]",[],other,no top-label rule matched
+16980_59466_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+5200_71515_1,Tragic fiction,"[""tragic fiction""]",[],other,no top-label rule matched
+6985_116065_0,Sports fiction,"[""sports fiction""]",[],other,no top-label rule matched
+6683_88387_0,Adventure/Thriller,"[""adventure"", ""thriller""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+19cTexts_1890-99_NewmEGO_batch71,Opera critique,"[""opera critique""]",[],other,no top-label rule matched
+4748_88165_0,Adventure/Thriller,"[""adventure"", ""thriller""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+19cTexts_1840-49_LeveCCO2_batch80,"Historical fiction, mystery","[""historical fiction"", ""mystery""]","[""historical"", ""mystery_crime""]",historical,compound genre maps to multiple normalized labels
+6891_8472_0,,[],[],other,missing genre_raw
+9909_92427_0,Satirical novel,"[""satirical novel""]",[],other,no top-label rule matched
+23021_74703_0,,[],[],other,missing genre_raw
+11209_32566_0,Social realism,"[""social realism""]",[],other,no top-label rule matched
+15027_53989_1,,[],[],other,missing genre_raw
+2336_29529_0,,[],[],other,missing genre_raw
+2409_46973_0,,[],[],other,missing genre_raw
+11295_32902_0,"Realistic fiction, domestic drama","[""realistic fiction"", ""domestic drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+1081_3717_0,,[],[],other,missing genre_raw
+986_44852_1,"Unclear, possibly literary fiction","[""unclear"", ""possibly literary fiction""]",[],other,no top-label rule matched
+1586_86271_0,"Fiction, drama","[""fiction"", ""drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+12367_40792_0,,[],[],other,missing genre_raw
+11380_33952_0,Political writing,"[""political writing""]",[],other,no top-label rule matched
+9980_25874_0,Educational text,"[""educational text""]",[],other,no top-label rule matched
+6362_89011_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+19cTexts_1890-99_TennHAL2_batch24,Diary,"[""diary""]",[],other,no top-label rule matched
+8923_19134_0,,[],[],other,missing genre_raw
+19cTexts_1820-29_EganPLI_batch60,,[],[],other,missing genre_raw
+11928_37556_0,"Fiction, possibly romance","[""fiction"", ""possibly romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+19cTexts_1870-79_BrowRDI_batch4,,[],[],other,missing genre_raw
+6418_121568_0,"Fiction, possibly children's literature","[""fiction"", ""possibly children s literature""]","[""general_fiction"", ""children_young_adult""]",general_fiction,compound genre maps to multiple normalized labels
+14670_53275_0,,[],[],other,missing genre_raw
+17583_62587_0,,[],[],other,missing genre_raw
+12120_38844_0,Parable,"[""parable""]",[],other,no top-label rule matched
+8099_14981_0,Instructional text,"[""instructional text""]",[],other,no top-label rule matched
+12459_41771_0,,[],[],other,missing genre_raw
+366_105646_0,"Drama, possibly young adult","[""drama"", ""possibly young adult""]","[""drama"", ""children_young_adult""]",drama,compound genre maps to multiple normalized labels
+23000_63531_0,,[],[],other,missing genre_raw
+19cTexts_1880-89_DextHCL_batch174,Pamphlet,"[""pamphlet""]",[],other,no top-label rule matched
+805_12130_0,"Romance, coming-of-age","[""romance"", ""coming of age""]","[""romance"", ""children_young_adult""]",romance,compound genre maps to multiple normalized labels
+46_36811_0,Christmas fiction,"[""christmas fiction""]",[],other,no top-label rule matched
+62_10353_0,"Science fiction, adventure","[""science fiction"", ""adventure""]","[""speculative"", ""adventure""]",speculative,compound genre maps to multiple normalized labels
+8961_21775_0,,[],[],other,missing genre_raw
+14021_101393_0,Dystopian fiction,"[""dystopian fiction""]",[],other,no top-label rule matched
+15757_56843_0,Linguistics,"[""linguistics""]",[],other,no top-label rule matched
+10514_27859_0,Autobiographical prose,"[""autobiographical prose""]",[],other,no top-label rule matched
+9158_22670_0,,[],[],other,missing genre_raw
+2391_88865_0,,[],[],other,missing genre_raw
+22020_74022_0,Social novel,"[""social novel""]",[],other,no top-label rule matched
+946_38166_0,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+19cTexts_1840-49_CunnALS3_batch111,Art history,"[""art history""]",[],other,no top-label rule matched
+13101_48764_0,,[],[],other,missing genre_raw
+4708_71796_0,,[],[],other,missing genre_raw
+271_54126_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+19427_68430_0,,[],[],other,missing genre_raw
+17179_61056_0,Instructional manual,"[""instructional manual""]",[],other,no top-label rule matched
+395_74021_0,Allegory,"[""allegory""]",[],other,no top-label rule matched
+2804_12594_0,"Coming-of-age, romance","[""coming of age"", ""romance""]","[""children_young_adult"", ""romance""]",children_young_adult,compound genre maps to multiple normalized labels
+19cTexts_1870-79_HeadJLT_batch52,"Non-fiction, historical account","[""non fiction"", ""historical account""]","[""nonfiction_essay"", ""historical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+22025_74148_0,Political or legal text,"[""political or legal text""]",[],other,no top-label rule matched
+11207_32244_0,Patriotic speech,"[""patriotic speech""]",[],other,no top-label rule matched
+6887_8344_0,"Historical fiction, political commentary","[""historical fiction"", ""political commentary""]","[""historical"", ""nonfiction_essay""]",historical,compound genre maps to multiple normalized labels
+141_69966_0,Novel,"[""novel""]",[],other,no top-label rule matched
+17883_64275_0,,[],[],other,missing genre_raw
+1951_116892_0,Utopian fiction,"[""utopian fiction""]",[],other,no top-label rule matched
+5138_2826_0,Satirical novel,"[""satirical novel""]",[],other,no top-label rule matched
+134_137986_0,Feminist novel,"[""feminist novel""]",[],other,no top-label rule matched
+20006_70481_0,,[],[],other,missing genre_raw
+2405_38081_0,,[],[],other,missing genre_raw
+6966_8875_0,Cookbook,"[""cookbook""]",[],other,no top-label rule matched
+19cTexts_1880-89_DextHCL_batch183,"Historical analysis, religious debate","[""historical analysis"", ""religious debate""]","[""historical"", ""religious_philosophical""]",historical,compound genre maps to multiple normalized labels
+2158_48760_0,Political novel,"[""political novel""]",[],other,no top-label rule matched
+19cTexts_1890-99_RoycJSM_batch262,Philosophy,"[""philosophy""]",[],other,no top-label rule matched
+2466_79240_0,,[],[],other,missing genre_raw
+172_59775_0,"Fiction, possibly comedy","[""fiction"", ""possibly comedy""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+15680_56356_0,Scientific literature,"[""scientific literature""]",[],other,no top-label rule matched
+17909_65210_0,,[],[],other,missing genre_raw
+2947_55535_0,,[],[],other,missing genre_raw
+10774_28892_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+19cTexts_1850-59_PuseEDR_batch281,Religious/ Theological discourse,"[""religious"", ""theological discourse""]","[""religious_philosophical"", ""nonfiction_essay""]",religious_philosophical,compound genre maps to multiple normalized labels
+11299_32931_0,,[],[],other,missing genre_raw
+4980_115835_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+1688_60400_0,Social realism,"[""social realism""]",[],other,no top-label rule matched
+19cTexts_1840-49_OwenRLC_batch280,Scientific writing,"[""scientific writing""]",[],other,no top-label rule matched
+19cTexts_1830-39_CrokTPS_batch100,Folk song,"[""folk song""]",[],other,no top-label rule matched
+64676_1610_1,Folklore,"[""folklore""]",[],other,no top-label rule matched
+7267_11375_0,,[],[],other,missing genre_raw
+4501_64785_0,Fable,"[""fable""]",[],other,no top-label rule matched
+12969_46538_0,,[],[],other,missing genre_raw
+10290_26796_0,"Fiction, possibly coming-of-age or family drama","[""fiction"", ""possibly coming of age or family drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+19cTexts_1870-79_EdwaELF_batch220,Academic writing,"[""academic writing""]",[],other,no top-label rule matched
+711_43045_0,Anthropological or cultural study,"[""anthropological or cultural study""]",[],other,no top-label rule matched
+12247_39703_0,Advertisement,"[""advertisement""]",[],other,no top-label rule matched
+19cTexts_1810-19_DunlWM_batch102,"Fiction, coming-of-age","[""fiction"", ""coming of age""]","[""general_fiction"", ""children_young_adult""]",general_fiction,compound genre maps to multiple normalized labels
+2813_134264_0,Financial fiction,"[""financial fiction""]",[],other,no top-label rule matched
+24131_101452_0,"Literary fiction, social satire","[""literary fiction"", ""social satire""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+19cTexts_1890-99_TennHAL2_batch252,,[],[],other,missing genre_raw
+10218_26737_0,Gardening guide,"[""gardening guide""]",[],other,no top-label rule matched
+4968_1086_0,"Adventure, mystery","[""adventure"", ""mystery""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+8916_19050_0,,[],[],other,missing genre_raw
+8961_21784_0,,[],[],other,missing genre_raw
+19013_66958_0,Science textbook,"[""science textbook""]",[],other,no top-label rule matched
+5110_106214_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+227_198_0,Political oratory,"[""political oratory""]",[],other,no top-label rule matched
+2190_21247_1,,[],[],other,missing genre_raw
+19cTexts_1870-79_HeadJLT_batch160,Political or diplomatic speech,"[""political or diplomatic speech""]",[],other,no top-label rule matched
+2814_99391_0,Fictional short story,"[""fictional short story""]",[],other,no top-label rule matched
+1026_36357_0,Fictional diary or journal,"[""fictional diary or journal""]",[],other,no top-label rule matched
+15703_56405_0,,[],[],other,missing genre_raw
+18198_66168_1,,[],[],other,missing genre_raw
+19cTexts_1860-69_FarrACH_batch300,Non-fiction/religious,"[""non fiction"", ""religious""]","[""nonfiction_essay"", ""religious_philosophical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+20943_72867_0,Prose fiction,"[""prose fiction""]",[],other,no top-label rule matched
+63998_1472_1,Anthropological study,"[""anthropological study""]",[],other,no top-label rule matched
+11747_36659_0,,[],[],other,missing genre_raw
+2407_38200_0,,[],[],other,missing genre_raw
+10506_27652_0,,[],[],other,missing genre_raw
+219_6814_0,"Adventure, travel","[""adventure"", ""travel""]","[""adventure"", ""nonfiction_essay""]",adventure,compound genre maps to multiple normalized labels
+284_97967_0,Social novel,"[""social novel""]",[],other,no top-label rule matched
+2818_40014_1,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+157_6761_0,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+6470_5636_0,Survival literature,"[""survival literature""]",[],other,no top-label rule matched
+2876_86647_0,"Fiction, possibly drama or psychological","[""fiction"", ""possibly drama or psychological""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+8096_14684_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+10293_26879_1,Political literature,"[""political literature""]",[],other,no top-label rule matched
+13371_50659_0,,[],[],other,missing genre_raw
+12869_45809_0,,[],[],other,missing genre_raw
+22025_74161_0,Legal text,"[""legal text""]",[],other,no top-label rule matched
+2410_47051_0,,[],[],other,missing genre_raw
+19cTexts_1880-89_HoweWUC_batch169,"Fiction, possibly romance","[""fiction"", ""possibly romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+6985_116047_0,School story,"[""school story""]",[],other,no top-label rule matched
+15334_55078_0,,[],[],other,missing genre_raw
+49685_78041_0,,[],[],other,missing genre_raw
+11037_31055_0,Military fiction,"[""military fiction""]",[],other,no top-label rule matched
+4910_45111_0,Satirical fiction,"[""satirical fiction""]",[],other,no top-label rule matched
+62022_78859_0,Folk tale,"[""folk tale""]",[],other,no top-label rule matched
+11905_37193_0,Character description,"[""character description""]",[],other,no top-label rule matched
+10502_27618_0,,[],[],other,missing genre_raw
+20006_70504_0,,[],[],other,missing genre_raw
+1937_64774_0,Fable,"[""fable""]",[],other,no top-label rule matched
+5318_3590_0,Theater/Farce,"[""theater"", ""farce""]",[],other,no top-label rule matched
+828_9577_0,Biblical narrative,"[""biblical narrative""]",[],other,no top-label rule matched
+13630_51782_0,Political critique,"[""political critique""]",[],other,no top-label rule matched
+60480_78555_1,,[],[],other,missing genre_raw
+6985_116077_0,Sports fiction,"[""sports fiction""]",[],other,no top-label rule matched
+10604_27962_0,,[],[],other,missing genre_raw
+7849_55706_0,Legal fiction,"[""legal fiction""]",[],other,no top-label rule matched
+8738_17944_0,,[],[],other,missing genre_raw
+19cTexts_1840-49_TownWLT2_batch201,Legal literature,"[""legal literature""]",[],other,no top-label rule matched
+17819_62966_0,,[],[],other,missing genre_raw
+62099_78969_0,"Romance, comedy","[""romance"", ""comedy""]","[""romance"", ""comedy_satire""]",romance,compound genre maps to multiple normalized labels
+19cTexts_1880-89_DextHCL_batch749,Bibliography,"[""bibliography""]",[],other,no top-label rule matched
+20943_72869_0,,[],[],other,missing genre_raw
+1845_64710_0,"Fiction, possibly comedy or satire","[""fiction"", ""possibly comedy or satire""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+19cTexts_1840-49_MarrFPJ_batch90,Folk song or ballad,"[""folk song or ballad""]",[],other,no top-label rule matched
+2795_118621_0,Sports fiction,"[""sports fiction""]",[],other,no top-label rule matched
+15027_53986_0,,[],[],other,missing genre_raw
+12837_45354_0,,[],[],other,missing genre_raw
+21433_73749_0,Philosophy,"[""philosophy""]",[],other,no top-label rule matched
+19cTexts_1880-89_FarrFLF_batch235,Historical/Religious text,"[""historical"", ""religious text""]","[""historical"", ""religious_philosophical""]",historical,compound genre maps to multiple normalized labels
+1449_60140_0,"Fiction, possibly action or adventure","[""fiction"", ""possibly action or adventure""]","[""general_fiction"", ""adventure""]",general_fiction,compound genre maps to multiple normalized labels
+11916_37281_0,,[],[],other,missing genre_raw
+11206_32221_0,Scientific literature,"[""scientific literature""]",[],other,no top-label rule matched
+12246_39689_0,,[],[],other,missing genre_raw
+19cTexts_1880-89_PateWME_batch50,,[],[],other,missing genre_raw
+12979_46647_0,,[],[],other,missing genre_raw
+19cTexts_1850-59_BrowEAL_batch114,"Poetry, dramatic monologue","[""poetry"", ""dramatic monologue""]","[""poetry"", ""drama""]",poetry,compound genre maps to multiple normalized labels
+15668_56245_1,Instruction manual,"[""instruction manual""]",[],other,no top-label rule matched
+14021_101297_0,Dystopian fiction,"[""dystopian fiction""]",[],other,no top-label rule matched
+13187_49102_0,Political philosophy,"[""political philosophy""]",[],other,no top-label rule matched
+5258_3573_0,Philosophy,"[""philosophy""]",[],other,no top-label rule matched
+12602_42843_0,Collection of short stories or anecdotes,"[""collection of short stories or anecdotes""]",[],other,no top-label rule matched
+24729_75603_0,,[],[],other,missing genre_raw
+7202_10855_0,,[],[],other,missing genre_raw
+800_739_0,Adventure/Travel,"[""adventure"", ""travel""]","[""adventure"", ""nonfiction_essay""]",adventure,compound genre maps to multiple normalized labels
+11879_37009_0,"Coming-of-age, family drama","[""coming of age"", ""family drama""]","[""children_young_adult"", ""drama""]",children_young_adult,compound genre maps to multiple normalized labels
+6821_8062_0,,[],[],other,missing genre_raw
+19cTexts_1840-49_WhitJLR2_batch5,,[],[],other,missing genre_raw
+10774_28853_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+19059_67976_0,Confessional literature,"[""confessional literature""]",[],other,no top-label rule matched
+2337_29561_0,,[],[],other,missing genre_raw
+1161_105714_1,,[],[],other,missing genre_raw
+17876_64175_0,Slice of life or domestic fiction,"[""slice of life or domestic fiction""]",[],other,no top-label rule matched
+15582_56200_0,,[],[],other,missing genre_raw
+21970_75035_0,Dystopian fiction,"[""dystopian fiction""]",[],other,no top-label rule matched
+4709_120434_0,Social novel,"[""social novel""]",[],other,no top-label rule matched
+778_16640_0,"Children's fiction, fantasy","[""children s fiction"", ""fantasy""]","[""children_young_adult"", ""speculative""]",children_young_adult,compound genre maps to multiple normalized labels
+19cTexts_1810-19_WilkJMM2_batch639,"Non-fiction, historical document","[""non fiction"", ""historical document""]","[""nonfiction_essay"", ""historical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+6558_6349_0,"Romance, coming-of-age","[""romance"", ""coming of age""]","[""romance"", ""children_young_adult""]",romance,compound genre maps to multiple normalized labels
+704_31710_0,"Fiction, possibly drama","[""fiction"", ""possibly drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+9895_25611_0,Dialogue,"[""dialogue""]",[],other,no top-label rule matched
+16219_57753_0,Social critique,"[""social critique""]",[],other,no top-label rule matched
+6879_117298_0,Sports fiction,"[""sports fiction""]",[],other,no top-label rule matched
+19cTexts_1820-29_MothWMA_batch216,Ballad,"[""ballad""]",[],other,no top-label rule matched
+711_42997_0,Adventure/Thriller,"[""adventure"", ""thriller""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+2527_14999_0,"Fiction, possibly drama or romance","[""fiction"", ""possibly drama or romance""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+18289_66520_0,Nautical guide,"[""nautical guide""]",[],other,no top-label rule matched
+12332_40515_0,,[],[],other,missing genre_raw
+4502_64898_0,,[],[],other,missing genre_raw
+19cTexts_1890-99_KiplRLH_batch58,Short story collection,"[""short story collection""]",[],other,no top-label rule matched
+2392_76788_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+43788_77844_0,Business literature,"[""business literature""]",[],other,no top-label rule matched
+11724_36631_0,,[],[],other,missing genre_raw
+19cTexts_1890-99_TennHAL_batch245,Literary correspondence,"[""literary correspondence""]",[],other,no top-label rule matched
+73_32984_0,War fiction,"[""war fiction""]",[],other,no top-label rule matched
+7263_11245_0,"Fiction, possibly coming-of-age or adventure","[""fiction"", ""possibly coming of age or adventure""]","[""general_fiction"", ""adventure""]",general_fiction,compound genre maps to multiple normalized labels
+10113_26145_0,,[],[],other,missing genre_raw
+19cTexts_1840-49_TownWLT_batch325,"Non-fiction, courtroom drama","[""non fiction"", ""courtroom drama""]","[""nonfiction_essay"", ""drama""]",nonfiction_essay,compound genre maps to multiple normalized labels
+19cTexts_1840-49_CatlGLN2_batch134,Anthropological study,"[""anthropological study""]",[],other,no top-label rule matched
+19885_69975_0,Novel,"[""novel""]",[],other,no top-label rule matched
+11769_36846_0,Political speech,"[""political speech""]",[],other,no top-label rule matched
+12250_39753_0,Short stories,"[""short stories""]",[],other,no top-label rule matched
+12401_41170_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+19cTexts_1840-49_LeveCCO2_batch110,Irish literature,"[""irish literature""]",[],other,no top-label rule matched
+17986_65543_0,,[],[],other,missing genre_raw
+64_23250_0,"Science-fiction, adventure","[""science fiction"", ""adventure""]","[""speculative"", ""adventure""]",speculative,compound genre maps to multiple normalized labels
+29944_76000_0,,[],[],other,missing genre_raw
+16372_57840_0,,[],[],other,missing genre_raw
+4731_48916_0,"Fiction, possibly rural or adventure","[""fiction"", ""possibly rural or adventure""]","[""general_fiction"", ""adventure""]",general_fiction,compound genre maps to multiple normalized labels
+1874_7870_0,Family fiction,"[""family fiction""]",[],other,no top-label rule matched
+17927_65374_0,Novel,"[""novel""]",[],other,no top-label rule matched
+11453_34687_0,Academic paper,"[""academic paper""]",[],other,no top-label rule matched
+3097_135592_0,"Historical fiction, mystery","[""historical fiction"", ""mystery""]","[""historical"", ""mystery_crime""]",historical,compound genre maps to multiple normalized labels
+29944_76050_0,,[],[],other,missing genre_raw
+19cTexts_1810-19_DunlWM_batch125,Epistolary literature,"[""epistolary literature""]",[],other,no top-label rule matched
+6684_65358_0,"Comedy, adventure","[""comedy"", ""adventure""]","[""comedy_satire"", ""adventure""]",comedy_satire,compound genre maps to multiple normalized labels
+18837_66879_0,War fiction,"[""war fiction""]",[],other,no top-label rule matched
+4785_839_0,"Fiction, possibly a romance or family drama","[""fiction"", ""possibly a romance or family drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+7178_128024_1,,[],[],other,missing genre_raw
+10218_26764_0,Reference book,"[""reference book""]",[],other,no top-label rule matched
+19888_70400_0,,[],[],other,missing genre_raw
+4501_64837_0,,[],[],other,missing genre_raw
+7151_10723_0,,[],[],other,missing genre_raw
+11207_32246_0,Political oration,"[""political oration""]",[],other,no top-label rule matched
+17503_62319_0,,[],[],other,missing genre_raw
+11071_31514_1,Anthropology,"[""anthropology""]",[],other,no top-label rule matched
+29452_24539_0,Fictional dialogue,"[""fictional dialogue""]",[],other,no top-label rule matched
+19cTexts_1820-29_MoorTML2_batch196,Biographical account,"[""biographical account""]",[],other,no top-label rule matched
+8520_16760_0,,[],[],other,missing genre_raw
+19cTexts_1830-39_ClarGE3_batch735,Biographical,"[""biographical""]",[],other,no top-label rule matched
+15115_54569_0,Allegory,"[""allegory""]",[],other,no top-label rule matched
+12401_41157_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+2518_99836_1,Magical realism,"[""magical realism""]",[],other,no top-label rule matched
+544_83646_1,Contemporary fiction,"[""contemporary fiction""]",[],other,no top-label rule matched
+11206_32211_0,Scientific text,"[""scientific text""]",[],other,no top-label rule matched
+14503_53078_0,Medical literature,"[""medical literature""]",[],other,no top-label rule matched
+2870_28863_1,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+9302_23806_0,,[],[],other,missing genre_raw
+19cTexts_1800-09_OpieJLP_batch52,Art theory,"[""art theory""]",[],other,no top-label rule matched
+19375_68293_0,,[],[],other,missing genre_raw
+9843_25452_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+8098_14948_0,,[],[],other,missing genre_raw
+4504_64917_0,"Fiction, philosophical","[""fiction"", ""philosophical""]","[""general_fiction"", ""religious_philosophical""]",general_fiction,compound genre maps to multiple normalized labels
+17838_63477_0,,[],[],other,missing genre_raw
+39849_77317_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+8129_89128_0,"Fantasy, philosophical fiction","[""fantasy"", ""philosophical fiction""]","[""speculative"", ""religious_philosophical""]",speculative,compound genre maps to multiple normalized labels
+20149_71236_0,,[],[],other,missing genre_raw
+15347_55164_0,,[],[],other,missing genre_raw
+15334_55100_0,,[],[],other,missing genre_raw
+3792_46854_0,,[],[],other,missing genre_raw
+12105_38589_0,Health and wellness,"[""health"", ""wellness""]",[],other,no top-label rule matched
+19cTexts_1880-89_DextHCL_batch1193,Cannot determine without the text,"[""cannot determine without the text""]",[],other,no top-label rule matched
+12869_45818_0,Drama/Romance,"[""drama"", ""romance""]","[""drama"", ""romance""]",drama,compound genre maps to multiple normalized labels
+10442_27400_0,Elegy,"[""elegy""]",[],other,no top-label rule matched
+6644_6806_0,Song lyrics,"[""song lyrics""]",[],other,no top-label rule matched
+21847_90571_1,Educational literature,"[""educational literature""]",[],other,no top-label rule matched
+4313_61656_0,"Fiction, family drama","[""fiction"", ""family drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+19cTexts_1880-89_FrouJTC2_batch327,,[],[],other,missing genre_raw
+13256_50312_0,Dialogue or conversation,"[""dialogue or conversation""]",[],other,no top-label rule matched
+351_113077_0,"Coming-of-age, religious fiction","[""coming of age"", ""religious fiction""]","[""children_young_adult"", ""religious_philosophical""]",children_young_adult,compound genre maps to multiple normalized labels
+14354_53049_0,,[],[],other,missing genre_raw
+14944_53637_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+16443_58413_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+19cTexts_1860-69_BrowRRB3_batch39,,[],[],other,missing genre_raw
+11139_31726_0,"Fiction, coming-of-age","[""fiction"", ""coming of age""]","[""general_fiction"", ""children_young_adult""]",general_fiction,compound genre maps to multiple normalized labels
+6984_100905_0,Sports fiction,"[""sports fiction""]",[],other,no top-label rule matched
+34249_76836_0,,[],[],other,missing genre_raw
+3533_61527_1,Personal reflection,"[""personal reflection""]",[],other,no top-label rule matched
+3045_31120_0,"Fiction, possibly domestic drama","[""fiction"", ""possibly domestic drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+764_26289_1,Sports,"[""sports""]",[],other,no top-label rule matched
+17186_61122_0,Art history,"[""art history""]",[],other,no top-label rule matched
+19cTexts_1830-39_SoutRD2_batch28,Legal document,"[""legal document""]",[],other,no top-label rule matched
+66159_1888_0,Adventure/Thriller,"[""adventure"", ""thriller""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+6637_6506_0,Drama/Fantasy,"[""drama"", ""fantasy""]","[""drama"", ""speculative""]",drama,compound genre maps to multiple normalized labels
+4083_64757_0,,[],[],other,missing genre_raw
+2818_39925_0,Animal welfare literature,"[""animal welfare literature""]",[],other,no top-label rule matched
+18247_85833_0,Scientific fiction,"[""scientific fiction""]",[],other,no top-label rule matched
+2432_19155_0,Fictional dialogue,"[""fictional dialogue""]",[],other,no top-label rule matched
+27174_125445_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+5200_71501_1,Tragic fiction,"[""tragic fiction""]",[],other,no top-label rule matched
+209_18232_0,"Fiction, possibly gothic or psychological","[""fiction"", ""possibly gothic or psychological""]","[""general_fiction"", ""speculative""]",general_fiction,compound genre maps to multiple normalized labels
+9083_22449_0,,[],[],other,missing genre_raw
+11207_32240_0,"Eulogy, political speech","[""eulogy"", ""political speech""]",[],other,no top-label rule matched
+6484_5787_0,,[],[],other,missing genre_raw
+8870_18507_0,Cookbook,"[""cookbook""]",[],other,no top-label rule matched
+2493_90993_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+9951_25627_0,"Speech, self-help","[""speech"", ""self help""]",[],other,no top-label rule matched
+2618_133311_0,Dialogue,"[""dialogue""]",[],other,no top-label rule matched
+10400_27304_0,Epistolary novel,"[""epistolary novel""]",[],other,no top-label rule matched
+11453_34574_0,,[],[],other,missing genre_raw
+19cTexts_1870-79_NasoELT_batch61,Political speech,"[""political speech""]",[],other,no top-label rule matched
+17430_62019_0,Fantasy/Adventure,"[""fantasy"", ""adventure""]","[""speculative"", ""adventure""]",speculative,compound genre maps to multiple normalized labels
+32366_76471_0,Prose fiction,"[""prose fiction""]",[],other,no top-label rule matched
+1941_111493_1,Epistolary,"[""epistolary""]",[],other,no top-label rule matched
+678_98209_0,Holiday fiction,"[""holiday fiction""]",[],other,no top-label rule matched
+12005_38282_0,Surreal or experimental fiction,"[""surreal or experimental fiction""]",[],other,no top-label rule matched
+19cTexts_1840-49_SabiLAL_batch493,Biographical sketches,"[""biographical sketches""]",[],other,no top-label rule matched
+12726_44122_0,Novel,"[""novel""]",[],other,no top-label rule matched
+320_288_0,Picaresque novel,"[""picaresque novel""]",[],other,no top-label rule matched
+12401_41137_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+19cTexts_1820-29_BadcJRL_batch367,Social event report,"[""social event report""]",[],other,no top-label rule matched
+19cTexts_1880-89_JeweSCD_batch73,None,"[""none""]",[],other,no top-label rule matched
+7121_10573_0,,[],[],other,missing genre_raw
+11598_35737_0,,[],[],other,missing genre_raw
+946_38169_0,Epistolary novel,"[""epistolary novel""]",[],other,no top-label rule matched
+7124_66511_0,Nautical fiction,"[""nautical fiction""]",[],other,no top-label rule matched
+883_8808_0,"Fiction, family drama","[""fiction"", ""family drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+828_9591_0,Biblical prophecy,"[""biblical prophecy""]",[],other,no top-label rule matched
+62330_79051_0,Folklore,"[""folklore""]",[],other,no top-label rule matched
+6966_8869_0,Culinary,"[""culinary""]",[],other,no top-label rule matched
+15309_55012_0,,[],[],other,missing genre_raw
+19cTexts_1830-39_ClarGE4_batch69,Art history,"[""art history""]",[],other,no top-label rule matched
+60_53980_0,Adventure/ Historical fiction,"[""adventure"", ""historical fiction""]","[""adventure"", ""historical""]",adventure,compound genre maps to multiple normalized labels
+6696_7247_0,"Fiction, possibly historical fiction","[""fiction"", ""possibly historical fiction""]","[""general_fiction"", ""historical""]",general_fiction,compound genre maps to multiple normalized labels
+9084_22463_0,,[],[],other,missing genre_raw
+7433_91129_0,,[],[],other,missing genre_raw
+49685_78115_0,,[],[],other,missing genre_raw
+8999_21859_0,,[],[],other,missing genre_raw
+19cTexts_1840-49_WhitJLR_batch274,Personal correspondence,"[""personal correspondence""]",[],other,no top-label rule matched
+30457_130634_0,War fiction,"[""war fiction""]",[],other,no top-label rule matched
+2228_21359_0,,[],[],other,missing genre_raw
+134_138031_0,Autobiographical narrative,"[""autobiographical narrative""]",[],other,no top-label rule matched
+19cTexts_1810-19_PainRM_batch168,Eulogy,"[""eulogy""]",[],other,no top-label rule matched
+6341_5422_0,"Fiction, possibly historical or religious fiction","[""fiction"", ""possibly historical or religious fiction""]","[""general_fiction"", ""historical""]",general_fiction,compound genre maps to multiple normalized labels
+11199_32078_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+19cTexts_1890-99_WardHHD3_batch91,"Fiction, possibly a social comedy","[""fiction"", ""possibly a social comedy""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+2788_11643_1,Fiction (Family/Relationships,"[""fiction family"", ""relationships""]",[],other,no top-label rule matched
+8100_15242_0,Natural history,"[""natural history""]",[],other,no top-label rule matched
+4502_64895_0,"Fiction, possibly supernatural or horror","[""fiction"", ""possibly supernatural or horror""]","[""general_fiction"", ""speculative""]",general_fiction,compound genre maps to multiple normalized labels
+2776_78064_0,Urban fiction,"[""urban fiction""]",[],other,no top-label rule matched
+78_10474_0,Adventure/Thriller,"[""adventure"", ""thriller""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+19cTexts_1860-69_HopkJSE_batch84,Religious/ theological essay,"[""religious"", ""theological essay""]","[""religious_philosophical"", ""nonfiction_essay""]",religious_philosophical,compound genre maps to multiple normalized labels
+10218_26773_0,Gardening guide,"[""gardening guide""]",[],other,no top-label rule matched
+17985_116641_0,Adventure/Thriller,"[""adventure"", ""thriller""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+19cTexts_1840-49_LeveCCO_batch195,,[],[],other,missing genre_raw
+393_91818_0,"Adventure, Mystery","[""adventure"", ""mystery""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+7810_12798_0,Folk tale,"[""folk tale""]",[],other,no top-label rule matched
+19033_21850_0,"Children's literature, fantasy","[""children s literature"", ""fantasy""]","[""children_young_adult"", ""speculative""]",children_young_adult,compound genre maps to multiple normalized labels
+2437_135536_0,,[],[],other,missing genre_raw
+15582_56124_0,Ecclesiastical documents,"[""ecclesiastical documents""]",[],other,no top-label rule matched
+1684_106851_0,"Fiction, possibly romance","[""fiction"", ""possibly romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+17338_61443_1,,[],[],other,missing genre_raw
+2342_37975_0,Psychological novel,"[""psychological novel""]",[],other,no top-label rule matched
+19cTexts_1830-39_CrokTPS_batch73,Song lyrics,"[""song lyrics""]",[],other,no top-label rule matched
+1825_79068_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+19474_102767_0,Military fiction,"[""military fiction""]",[],other,no top-label rule matched
+286_24704_0,"Fiction, possibly children's literature","[""fiction"", ""possibly children s literature""]","[""general_fiction"", ""children_young_adult""]",general_fiction,compound genre maps to multiple normalized labels
+14021_101422_0,Dystopian fiction,"[""dystopian fiction""]",[],other,no top-label rule matched
+11393_34178_0,Adventure/science fiction,"[""adventure"", ""science fiction""]","[""adventure"", ""speculative""]",adventure,compound genre maps to multiple normalized labels
+227_207_0,Epic,"[""epic""]",[],other,no top-label rule matched
+15680_56365_0,Speech or address,"[""speech or address""]",[],other,no top-label rule matched
+1644_73169_0,Suspense,"[""suspense""]",[],other,no top-label rule matched
+238_45959_0,,[],[],other,missing genre_raw
+12280_122346_0,"Drama, romance","[""drama"", ""romance""]","[""drama"", ""romance""]",drama,compound genre maps to multiple normalized labels
+5323_3720_0,Psychological novel,"[""psychological novel""]",[],other,no top-label rule matched
+6833_8231_0,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+9261_23228_0,,[],[],other,missing genre_raw
+10768_28830_0,"Non-fiction, historical/archaeological","[""non fiction"", ""historical"", ""archaeological""]","[""nonfiction_essay"", ""historical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+8468_16673_0,Epic or mythological narrative,"[""epic or mythological narrative""]",[],other,no top-label rule matched
+21847_90571_0,"Fiction, possibly coming-of-age or family drama","[""fiction"", ""possibly coming of age or family drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+9489_73718_0,,[],[],other,missing genre_raw
+10002_53155_0,Supernatural fiction,"[""supernatural fiction""]",[],other,no top-label rule matched
+7298_138534_0,Satirical fiction,"[""satirical fiction""]",[],other,no top-label rule matched
+27174_125450_0,Escape fiction,"[""escape fiction""]",[],other,no top-label rule matched
+11893_37160_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+2405_38111_0,,[],[],other,missing genre_raw
+6833_8226_0,,[],[],other,missing genre_raw
+9964_138598_0,Philosophical/ spiritual essay,"[""philosophical"", ""spiritual essay""]","[""religious_philosophical"", ""nonfiction_essay""]",religious_philosophical,compound genre maps to multiple normalized labels
+12848_45692_0,Maritime fiction,"[""maritime fiction""]",[],other,no top-label rule matched
+389_39445_0,Mystery/horror,"[""mystery"", ""horror""]","[""mystery_crime"", ""speculative""]",mystery_crime,compound genre maps to multiple normalized labels
+13187_49091_0,Political philosophy,"[""political philosophy""]",[],other,no top-label rule matched
+61960_78771_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+12005_38324_0,,[],[],other,missing genre_raw
+1164_43226_0,Dystopian fiction,"[""dystopian fiction""]",[],other,no top-label rule matched
+15668_56252_0,,[],[],other,missing genre_raw
+17805_62875_0,Craft/How-to,"[""craft"", ""how to""]",[],other,no top-label rule matched
+10746_28614_0,,[],[],other,missing genre_raw
+22020_74005_0,,[],[],other,missing genre_raw
+6491_137838_0,"Fiction, possibly coming-of-age","[""fiction"", ""possibly coming of age""]","[""general_fiction"", ""children_young_adult""]",general_fiction,compound genre maps to multiple normalized labels
+5111_124867_0,Diary or journal,"[""diary or journal""]",[],other,no top-label rule matched
+3297_55568_0,,[],[],other,missing genre_raw
+19cTexts_1850-59_CanoTCC_batch206,Prison literature,"[""prison literature""]",[],other,no top-label rule matched
+8907_19019_0,Realism,"[""realism""]",[],other,no top-label rule matched
+19cTexts_1850-59_LeveCRC_batch474,,[],[],other,missing genre_raw
+163_133005_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+6877_124883_0,Sports literature,"[""sports literature""]",[],other,no top-label rule matched
+6952_105430_0,Military history,"[""military history""]",[],other,no top-label rule matched
+6505_6086_0,Opera,"[""opera""]",[],other,no top-label rule matched
+4670_108814_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+271_54091_1,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+32245_76313_0,,[],[],other,missing genre_raw
+7047_119649_0,Travel/adventure,"[""travel"", ""adventure""]","[""nonfiction_essay"", ""adventure""]",nonfiction_essay,compound genre maps to multiple normalized labels
+2339_29616_0,,[],[],other,missing genre_raw
+12987_46689_0,,[],[],other,missing genre_raw
+30102_76100_0,,[],[],other,missing genre_raw
+2807_74596_0,"Adventure, Historical Fiction","[""adventure"", ""historical fiction""]","[""adventure"", ""historical""]",adventure,compound genre maps to multiple normalized labels
+17945_65379_0,,[],[],other,missing genre_raw
+19cTexts_1850-59_LandWLF_batch269,Critique or analysis,"[""critique or analysis""]",[],other,no top-label rule matched
+18982_66945_0,,[],[],other,missing genre_raw
+63023_79077_0,"Family drama, domestic fiction","[""family drama"", ""domestic fiction""]","[""drama"", ""general_fiction""]",drama,compound genre maps to multiple normalized labels
+17819_62916_0,Agricultural literature,"[""agricultural literature""]",[],other,no top-label rule matched
+20931_72777_0,Description of a place,"[""description of a place""]",[],other,no top-label rule matched
+19cTexts_1810-19_DunlWM_batch228,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+19cTexts_1830-39_ClarGE4_batch291,Art history,"[""art history""]",[],other,no top-label rule matched
+1652_111406_0,Survival fiction,"[""survival fiction""]",[],other,no top-label rule matched
+62330_79043_0,"Folklore, mythology","[""folklore"", ""mythology""]",[],other,no top-label rule matched
+11206_32195_0,Scientific literature,"[""scientific literature""]",[],other,no top-label rule matched
+996_98508_0,"Adventure, satire","[""adventure"", ""satire""]","[""adventure"", ""comedy_satire""]",adventure,compound genre maps to multiple normalized labels
+15347_55231_0,,[],[],other,missing genre_raw
+395_74069_1,Allegory,"[""allegory""]",[],other,no top-label rule matched
+14503_53096_0,Academic paper,"[""academic paper""]",[],other,no top-label rule matched
+10215_26493_1,,[],[],other,missing genre_raw
+828_9582_0,Biblical passage,"[""biblical passage""]",[],other,no top-label rule matched
+3455_55851_0,Supernatural fiction,"[""supernatural fiction""]",[],other,no top-label rule matched
+4276_71460_1,"Fiction, domestic drama","[""fiction"", ""domestic drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+11071_31488_0,Exploration narrative,"[""exploration narrative""]",[],other,no top-label rule matched
+8712_17858_0,,[],[],other,missing genre_raw
+19cTexts_1870-79_EdwaELF_batch424,Art history,"[""art history""]",[],other,no top-label rule matched
+119_55943_0,"Travel literature, adventure","[""travel literature"", ""adventure""]","[""nonfiction_essay"", ""adventure""]",nonfiction_essay,compound genre maps to multiple normalized labels
+2803_103576_0,Autobiographical,"[""autobiographical""]",[],other,no top-label rule matched
+946_38181_0,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+560_68569_0,Action,"[""action""]",[],other,no top-label rule matched
+7202_10873_0,"Autobiography, philosophical reflection","[""autobiography"", ""philosophical reflection""]","[""nonfiction_essay"", ""religious_philosophical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+12332_40550_0,,[],[],other,missing genre_raw
+61960_78704_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+561_42928_1,Adventure/Thriller,"[""adventure"", ""thriller""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+19cTexts_1830-39_WilbRLW_batch13,Personal letter,"[""personal letter""]",[],other,no top-label rule matched
+16132_57397_0,"Non-fiction, philosophical essay","[""non fiction"", ""philosophical essay""]","[""nonfiction_essay"", ""religious_philosophical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+43788_77852_0,,[],[],other,missing genre_raw
+10686_28540_0,,[],[],other,missing genre_raw
+10777_139569_0,"Fiction, possibly family drama","[""fiction"", ""possibly family drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+1881_85203_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+6890_8388_0,,[],[],other,missing genre_raw
+7267_11378_0,,[],[],other,missing genre_raw
+8870_18545_0,Culinary cookbook,"[""culinary cookbook""]",[],other,no top-label rule matched
+376_56134_0,,[],[],other,missing genre_raw
+19cTexts_1830-39_GodwWLN_batch90,Mythology,"[""mythology""]",[],other,no top-label rule matched
+19cTexts_1820-29_EdgeMHL4_batch98,,[],[],other,missing genre_raw
+11770_36896_0,,[],[],other,missing genre_raw
+8387_6404_0,Fictional dialogue,"[""fictional dialogue""]",[],other,no top-label rule matched
+12812_45129_0,,[],[],other,missing genre_raw
+61525_78663_0,,[],[],other,missing genre_raw
+17819_62907_0,Dialogue,"[""dialogue""]",[],other,no top-label rule matched
+8876_18659_0,,[],[],other,missing genre_raw
+11645_36020_0,Autobiographical narrative,"[""autobiographical narrative""]",[],other,no top-label rule matched
+17889_64289_0,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+19cTexts_1870-79_ElioGLJ_batch47,"The first text could be classified as a historical romance, while the second text could be classified as a satire or a humoristic essay","[""the first text could be classified as a historical romance"", ""while the second text could be classified as a satire or a humoristic essay""]","[""historical"", ""comedy_satire""]",historical,compound genre maps to multiple normalized labels
+12401_41111_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+14144_52095_0,Science,"[""science""]",[],other,no top-label rule matched
+15346_55103_0,Anthology,"[""anthology""]",[],other,no top-label rule matched
+19cTexts_1850-59_StowHDT2_batch77,Medical fiction,"[""medical fiction""]",[],other,no top-label rule matched
+13599_51480_0,,[],[],other,missing genre_raw
+1937_64747_1,Fable or allegory,"[""fable or allegory""]",[],other,no top-label rule matched
+17223_61271_0,Epistolary novel,"[""epistolary novel""]",[],other,no top-label rule matched
+14822_53574_0,Moral teachings,"[""moral teachings""]",[],other,no top-label rule matched
+17889_64291_0,,[],[],other,missing genre_raw
+7050_129875_0,War fiction,"[""war fiction""]",[],other,no top-label rule matched
+12489_41947_0,,[],[],other,missing genre_raw
+15027_53957_1,,[],[],other,missing genre_raw
+7781_12581_0,Technical or instructional text,"[""technical or instructional text""]",[],other,no top-label rule matched
+30365_64141_0,"Adventure, Children's literature","[""adventure"", ""children s literature""]","[""adventure"", ""children_young_adult""]",adventure,compound genre maps to multiple normalized labels
+2408_38214_0,Epistolary novel,"[""epistolary novel""]",[],other,no top-label rule matched
+1188_109798_0,,[],[],other,missing genre_raw
+19cTexts_1830-39_EvarJSP_batch148,Political speech,"[""political speech""]",[],other,no top-label rule matched
+6821_8093_0,,[],[],other,missing genre_raw
+19cTexts_1870-79_YongCPF_batch5,"Non-fiction, historical account","[""non fiction"", ""historical account""]","[""nonfiction_essay"", ""historical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+11396_34276_0,,[],[],other,missing genre_raw
+68_25921_0,"Science-fiction, adventure","[""science fiction"", ""adventure""]","[""speculative"", ""adventure""]",speculative,compound genre maps to multiple normalized labels
+13851_69457_0,War fiction,"[""war fiction""]",[],other,no top-label rule matched
+6378_51973_0,Suspense fiction,"[""suspense fiction""]",[],other,no top-label rule matched
+18640_52342_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+6835_8248_0,,[],[],other,missing genre_raw
+15139_54869_0,Descriptive literature,"[""descriptive literature""]",[],other,no top-label rule matched
+12250_39752_0,Folklore,"[""folklore""]",[],other,no top-label rule matched
+19663_69306_0,Proposal,"[""proposal""]",[],other,no top-label rule matched
+22020_74025_0,Novellas,"[""novellas""]",[],other,no top-label rule matched
+1688_60398_0,Social Realism,"[""social realism""]",[],other,no top-label rule matched
+9895_25621_0,,[],[],other,missing genre_raw
+14904_53624_0,Legal text,"[""legal text""]",[],other,no top-label rule matched
+11024_30725_0,,[],[],other,missing genre_raw
+18088_65985_0,Tragic fiction,"[""tragic fiction""]",[],other,no top-label rule matched
+6984_100942_1,Sports fiction,"[""sports fiction""]",[],other,no top-label rule matched
+24337_120722_0,Mystery/romance,"[""mystery"", ""romance""]","[""mystery_crime"", ""romance""]",mystery_crime,compound genre maps to multiple normalized labels
+3781_87954_0,"Mystery, adventure","[""mystery"", ""adventure""]","[""mystery_crime"", ""adventure""]",mystery_crime,compound genre maps to multiple normalized labels
+18157_66000_0,,[],[],other,missing genre_raw
+1917_137004_1,"Journal, personal reflection","[""journal"", ""personal reflection""]",[],other,no top-label rule matched
+29363_108217_0,Letter,"[""letter""]",[],other,no top-label rule matched
+551_31670_1,War fiction,"[""war fiction""]",[],other,no top-label rule matched
+2409_47014_0,"Fiction, possibly historical fiction","[""fiction"", ""possibly historical fiction""]","[""general_fiction"", ""historical""]",general_fiction,compound genre maps to multiple normalized labels
+8560_17190_0,,[],[],other,missing genre_raw
+6639_6550_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+19cTexts_1840-49_GodlJLF_batch94,Cultural study,"[""cultural study""]",[],other,no top-label rule matched
+2419_47299_0,Epistolary,"[""epistolary""]",[],other,no top-label rule matched
+19cTexts_1890-99_WardHHD2_batch159,"Coming-of-age, romance","[""coming of age"", ""romance""]","[""children_young_adult"", ""romance""]",children_young_adult,compound genre maps to multiple normalized labels
+451_59873_0,"Fiction, possibly adventure or maritime","[""fiction"", ""possibly adventure or maritime""]","[""general_fiction"", ""adventure""]",general_fiction,compound genre maps to multiple normalized labels
+12546_42294_0,,[],[],other,missing genre_raw
+2405_38064_0,Art critique,"[""art critique""]",[],other,no top-label rule matched
+5265_51795_0,,[],[],other,missing genre_raw
+19cTexts_1870-79_NasoELT_batch70,Political speech,"[""political speech""]",[],other,no top-label rule matched
+8468_16651_0,,[],[],other,missing genre_raw
+16443_58525_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+19cTexts_1830-39_WordWYR_batch18,Romance/fantasy,"[""romance"", ""fantasy""]","[""romance"", ""speculative""]",romance,compound genre maps to multiple normalized labels
+13148_119996_0,"Fiction, comedy","[""fiction"", ""comedy""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+8098_14938_0,,[],[],other,missing genre_raw
+11495_35004_0,,[],[],other,missing genre_raw
+3796_113881_0,,[],[],other,missing genre_raw
+11589_35542_0,Satirical fiction,"[""satirical fiction""]",[],other,no top-label rule matched
+8126_15847_0,,[],[],other,missing genre_raw
+6966_8940_0,Cookbook or culinary guide,"[""cookbook or culinary guide""]",[],other,no top-label rule matched
+21422_73313_0,Wedding narrative,"[""wedding narrative""]",[],other,no top-label rule matched
+12602_42833_0,Personal narrative,"[""personal narrative""]",[],other,no top-label rule matched
+10863_30078_0,,[],[],other,missing genre_raw
+12451_41560_0,Adventure/Tragedy,"[""adventure"", ""tragedy""]","[""adventure"", ""drama""]",adventure,compound genre maps to multiple normalized labels
+7772_12511_0,Dialogue,"[""dialogue""]",[],other,no top-label rule matched
+8738_18029_0,"Non-fiction, historical or cultural analysis","[""non fiction"", ""historical or cultural analysis""]","[""nonfiction_essay"", ""historical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+19cTexts_1850-59_PuseEDR_batch80,Theological writing,"[""theological writing""]",[],other,no top-label rule matched
+13230_49953_0,,[],[],other,missing genre_raw
+18000_32209_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+17838_63491_0,,[],[],other,missing genre_raw
+2803_103571_0,,[],[],other,missing genre_raw
+271_54087_1,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+19375_68290_0,,[],[],other,missing genre_raw
+8558_20266_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+6378_51894_0,"Fiction, possibly psychological thriller","[""fiction"", ""possibly psychological thriller""]","[""general_fiction"", ""mystery_crime""]",general_fiction,compound genre maps to multiple normalized labels
+7849_55680_0,"Drama, Crime Fiction","[""drama"", ""crime fiction""]","[""drama"", ""mystery_crime""]",drama,compound genre maps to multiple normalized labels
+15421_55314_0,Linguistics,"[""linguistics""]",[],other,no top-label rule matched
+4748_88100_1,Nature/Animal fiction,"[""nature"", ""animal fiction""]",[],other,no top-label rule matched
+7503_12049_0,,[],[],other,missing genre_raw
+11769_36847_0,Political speech or debate,"[""political speech or debate""]",[],other,no top-label rule matched
+2722_124000_1,Epic,"[""epic""]",[],other,no top-label rule matched
+22009_73959_0,Folklore,"[""folklore""]",[],other,no top-label rule matched
+19cTexts_1840-49_MarrFPJ_batch91,Folk literature,"[""folk literature""]",[],other,no top-label rule matched
+13264_50572_0,Prison literature,"[""prison literature""]",[],other,no top-label rule matched
+135_1169_0,,[],[],other,missing genre_raw
+17838_63518_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+2779_47547_0,,[],[],other,missing genre_raw
+2084_48408_1,,[],[],other,missing genre_raw
+1023_98932_0,"Fiction, possibly coming-of-age or social commentary","[""fiction"", ""possibly coming of age or social commentary""]","[""general_fiction"", ""children_young_adult""]",general_fiction,compound genre maps to multiple normalized labels
+14271_52312_0,,[],[],other,missing genre_raw
+17177_61022_0,,[],[],other,missing genre_raw
+1718_31807_1,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+16218_57720_0,,[],[],other,missing genre_raw
+3185_31882_0,"Family drama, comedy","[""family drama"", ""comedy""]","[""drama"", ""comedy_satire""]",drama,compound genre maps to multiple normalized labels
+828_9575_0,Biblical narrative,"[""biblical narrative""]",[],other,no top-label rule matched
+19cTexts_1820-29_AnonSO_batch80,Biographical,"[""biographical""]",[],other,no top-label rule matched
+12993_46801_0,,[],[],other,missing genre_raw
+6927_120555_0,Sports fiction,"[""sports fiction""]",[],other,no top-label rule matched
+17805_62852_0,Fable,"[""fable""]",[],other,no top-label rule matched
+21423_73331_0,Psychological novel,"[""psychological novel""]",[],other,no top-label rule matched
+13627_51646_0,,[],[],other,missing genre_raw
+2722_123990_0,"Historical fiction, adventure","[""historical fiction"", ""adventure""]","[""historical"", ""adventure""]",historical,compound genre maps to multiple normalized labels
+12005_38358_0,,[],[],other,missing genre_raw
+7781_12566_0,Science,"[""science""]",[],other,no top-label rule matched
+23685_74821_0,Moral tale or allegory,"[""moral tale or allegory""]",[],other,no top-label rule matched
+986_44827_1,,[],[],other,missing genre_raw
+12502_42135_0,Biblical narrative,"[""biblical narrative""]",[],other,no top-label rule matched
+6124_109252_0,Fictional diary or personal narrative,"[""fictional diary or personal narrative""]",[],other,no top-label rule matched
+7812_13164_0,Epistolary novel,"[""epistolary novel""]",[],other,no top-label rule matched
+4698_132382_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+8524_16862_0,Political novel,"[""political novel""]",[],other,no top-label rule matched
+4670_108835_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+9261_23045_0,"Fiction, possibly romance or adventure","[""fiction"", ""possibly romance or adventure""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+17338_61443_0,,[],[],other,missing genre_raw
+10712_53356_0,Medical fiction,"[""medical fiction""]",[],other,no top-label rule matched
+19cTexts_1850-59_CanoTCC_batch9,"Adventure, memoir","[""adventure"", ""memoir""]","[""adventure"", ""nonfiction_essay""]",adventure,compound genre maps to multiple normalized labels
+13479_50908_0,Scientific article,"[""scientific article""]",[],other,no top-label rule matched
+12840_45478_0,Critique,"[""critique""]",[],other,no top-label rule matched
+12459_41775_0,Aphorisms,"[""aphorisms""]",[],other,no top-label rule matched
+5164_85449_0,"Mystery, horror","[""mystery"", ""horror""]","[""mystery_crime"", ""speculative""]",mystery_crime,compound genre maps to multiple normalized labels
+30102_76108_0,,[],[],other,missing genre_raw
+14236_52238_0,Autobiographical novel,"[""autobiographical novel""]",[],other,no top-label rule matched
+8876_18616_0,Ethnographic writing,"[""ethnographic writing""]",[],other,no top-label rule matched
+4650_71712_1,Autobiographical fiction,"[""autobiographical fiction""]",[],other,no top-label rule matched
+20943_72870_0,Coming-of-age/romance,"[""coming of age"", ""romance""]","[""children_young_adult"", ""romance""]",children_young_adult,compound genre maps to multiple normalized labels
+19cTexts_1800-09_ScotWMS2_batch118,Ballad,"[""ballad""]",[],other,no top-label rule matched
+4501_64790_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+15066_54467_0,,[],[],other,missing genre_raw
+55_53892_0,"Children's literature, fantasy","[""children s literature"", ""fantasy""]","[""children_young_adult"", ""speculative""]",children_young_adult,compound genre maps to multiple normalized labels
+10289_26783_0,,[],[],other,missing genre_raw
+20701_72273_0,,[],[],other,missing genre_raw
+68_25985_0,"Adventure, science-fiction","[""adventure"", ""science fiction""]","[""adventure"", ""speculative""]",adventure,compound genre maps to multiple normalized labels
+9980_25873_0,Educational material,"[""educational material""]",[],other,no top-label rule matched
+19cTexts_1810-19_WindWSI_batch99,Ode,"[""ode""]",[],other,no top-label rule matched
+15206_54958_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+28725_109680_0,Adventure/Children's literature,"[""adventure"", ""children s literature""]","[""adventure"", ""children_young_adult""]",adventure,compound genre maps to multiple normalized labels
+16980_59480_0,,[],[],other,missing genre_raw
+21970_75050_1,Post-apocalyptic fiction,"[""post apocalyptic fiction""]",[],other,no top-label rule matched
+3455_55753_0,Legend,"[""legend""]",[],other,no top-label rule matched
+123_47623_0,Adventure/Science Fiction,"[""adventure"", ""science fiction""]","[""adventure"", ""speculative""]",adventure,compound genre maps to multiple normalized labels
+963_7393_1,,[],[],other,missing genre_raw
+4217_9457_0,,[],[],other,missing genre_raw
+9066_22372_0,,[],[],other,missing genre_raw
+2158_48734_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+6891_8520_0,"Fiction, religious","[""fiction"", ""religious""]","[""general_fiction"", ""religious_philosophical""]",general_fiction,compound genre maps to multiple normalized labels
+12604_42905_0,,[],[],other,missing genre_raw
+243_84590_0,Prison literature,"[""prison literature""]",[],other,no top-label rule matched
+395_74009_0,Allegory,"[""allegory""]",[],other,no top-label rule matched
+63200_1391_1,,[],[],other,missing genre_raw
+12246_39684_0,,[],[],other,missing genre_raw
+19cTexts_1820-29_EganPLI_batch190,,[],[],other,missing genre_raw
+19cTexts_1880-89_FarrFLF2_batch233,Religious critique/essay,"[""religious critique"", ""essay""]","[""religious_philosophical"", ""nonfiction_essay""]",religious_philosophical,compound genre maps to multiple normalized labels
+15054_54213_0,,[],[],other,missing genre_raw
+14794_53502_0,,[],[],other,missing genre_raw
+5096_2291_0,"Adventure, Science Fiction","[""adventure"", ""science fiction""]","[""adventure"", ""speculative""]",adventure,compound genre maps to multiple normalized labels
+12338_40645_0,,[],[],other,missing genre_raw
+2779_47525_0,,[],[],other,missing genre_raw
+3261_111660_1,Description,"[""description""]",[],other,no top-label rule matched
+11645_36029_0,,[],[],other,missing genre_raw
+17035_60265_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+41_23231_1,Folklore or tall tale,"[""folklore or tall tale""]",[],other,no top-label rule matched
+30890_76168_0,,[],[],other,missing genre_raw
+1161_105654_0,,[],[],other,missing genre_raw
+19532_69137_0,"Personal correspondence, possibly part of a larger work","[""personal correspondence"", ""possibly part of a larger work""]",[],other,no top-label rule matched
+7985_14060_0,,[],[],other,missing genre_raw
+3326_89835_0,,[],[],other,missing genre_raw
+2437_135472_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+19cTexts_1830-39_ClarGE2_batch769,Biographical,"[""biographical""]",[],other,no top-label rule matched
+17974_65474_0,,[],[],other,missing genre_raw
+6838_8294_0,Psychological or existential fiction,"[""psychological or existential fiction""]",[],other,no top-label rule matched
+8203_124456_1,,[],[],other,missing genre_raw
+12620_43316_0,,[],[],other,missing genre_raw
+16562_58866_0,,[],[],other,missing genre_raw
+6593_18094_1,Dialogue,"[""dialogue""]",[],other,no top-label rule matched
+12546_42215_0,,[],[],other,missing genre_raw
+19cTexts_1870-79_AlcoLOG_batch147,Social realism,"[""social realism""]",[],other,no top-label rule matched
+12367_40683_0,Naturalist fiction,"[""naturalist fiction""]",[],other,no top-label rule matched
+25305_60864_1,Erotic fiction,"[""erotic fiction""]",[],other,no top-label rule matched
+1081_3810_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+6985_116039_1,Sports fiction,"[""sports fiction""]",[],other,no top-label rule matched
+16428_58254_0,Fictional dialogue,"[""fictional dialogue""]",[],other,no top-label rule matched
+28698_117751_0,Dystopian fiction,"[""dystopian fiction""]",[],other,no top-label rule matched
+8923_19139_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+13773_51856_0,,[],[],other,missing genre_raw
+8560_17190_1,,[],[],other,missing genre_raw
+14021_101432_0,Political or dystopian fiction,"[""political or dystopian fiction""]",[],other,no top-label rule matched
+19864_69792_0,,[],[],other,missing genre_raw
+2337_29563_0,,[],[],other,missing genre_raw
+4406_133527_0,Dialogue,"[""dialogue""]",[],other,no top-label rule matched
+1164_43194_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+6831_8192_0,,[],[],other,missing genre_raw
+624_75415_0,Utopian fiction,"[""utopian fiction""]",[],other,no top-label rule matched
+22045_74361_0,,[],[],other,missing genre_raw
+10218_26730_0,Horticultural literature,"[""horticultural literature""]",[],other,no top-label rule matched
+19cTexts_1820-29_EganPLI_batch49,Critique or editorial,"[""critique or editorial""]",[],other,no top-label rule matched
+11494_34957_0,Moralistic fiction,"[""moralistic fiction""]",[],other,no top-label rule matched
+2197_14239_1,Gambling literature,"[""gambling literature""]",[],other,no top-label rule matched
+12646_43497_0,"Fiction, possibly domestic or coming-of-age","[""fiction"", ""possibly domestic or coming of age""]","[""general_fiction"", ""children_young_adult""]",general_fiction,compound genre maps to multiple normalized labels
+1249_7501_0,Dystopian fiction,"[""dystopian fiction""]",[],other,no top-label rule matched
+3266_137545_0,,[],[],other,missing genre_raw
+4979_111765_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+13507_51165_0,Realism,"[""realism""]",[],other,no top-label rule matched
+19884_69952_0,,[],[],other,missing genre_raw
+139_8282_0,"Adventure, Travel literature","[""adventure"", ""travel literature""]","[""adventure"", ""nonfiction_essay""]",adventure,compound genre maps to multiple normalized labels
+14144_52104_0,Scientific literature,"[""scientific literature""]",[],other,no top-label rule matched
+10400_27357_0,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+4268_88064_1,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+12274_39978_0,Anthropological study,"[""anthropological study""]",[],other,no top-label rule matched
+19cTexts_1880-89_DextHCL_batch1290,,[],[],other,missing genre_raw
+18580_66767_0,,[],[],other,missing genre_raw
+17876_64174_0,,[],[],other,missing genre_raw
+14904_53621_0,Legal or political text,"[""legal or political text""]",[],other,no top-label rule matched
+13027_47866_0,,[],[],other,missing genre_raw
+11747_36659_2,Modern fiction,"[""modern fiction""]",[],other,no top-label rule matched
+1473_100685_0,,[],[],other,missing genre_raw
+15334_55056_0,Geographic survey,"[""geographic survey""]",[],other,no top-label rule matched
+8451_16521_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+14503_53080_0,Medical literature,"[""medical literature""]",[],other,no top-label rule matched
+2466_79162_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+561_42895_0,,[],[],other,missing genre_raw
+2391_88860_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+73_32934_1,War literature,"[""war literature""]",[],other,no top-label rule matched
+179_62284_0,"Fiction, family drama","[""fiction"", ""family drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+26732_97144_0,Road trip fiction,"[""road trip fiction""]",[],other,no top-label rule matched
+26732_97179_0,"Fiction, drama","[""fiction"", ""drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+19048_67815_0,Celebration or festival,"[""celebration or festival""]",[],other,no top-label rule matched
+231_248_0,,[],[],other,missing genre_raw
+22009_73956_0,Educational textbook,"[""educational textbook""]",[],other,no top-label rule matched
+18220_66451_0,Social novel,"[""social novel""]",[],other,no top-label rule matched
+2450_39895_0,Autobiographical fiction,"[""autobiographical fiction""]",[],other,no top-label rule matched
+17340_61575_0,Realism,"[""realism""]",[],other,no top-label rule matched
+21564_73794_0,,[],[],other,missing genre_raw
+9086_22497_0,"Fiction, possibly comedy or romance","[""fiction"", ""possibly comedy or romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+12579_42812_0,,[],[],other,missing genre_raw
+7264_11352_0,Theater,"[""theater""]",[],other,no top-label rule matched
+30890_76268_0,"Adventure, coming-of-age","[""adventure"", ""coming of age""]","[""adventure"", ""children_young_adult""]",adventure,compound genre maps to multiple normalized labels
+7186_10830_0,"Drama, romance","[""drama"", ""romance""]","[""drama"", ""romance""]",drama,compound genre maps to multiple normalized labels
+7202_10850_0,Philosophy,"[""philosophy""]",[],other,no top-label rule matched
+11766_36751_0,"Mystery, horror","[""mystery"", ""horror""]","[""mystery_crime"", ""speculative""]",mystery_crime,compound genre maps to multiple normalized labels
+19663_69297_0,Linguistics,"[""linguistics""]",[],other,no top-label rule matched
+15206_54907_0,,[],[],other,missing genre_raw
+19cTexts_1860-69_LeveCLA_batch202,,[],[],other,missing genre_raw
+946_38186_0,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+3464_132245_0,Contemporary fiction,"[""contemporary fiction""]",[],other,no top-label rule matched
+7888_13639_0,"Young adult, drama","[""young adult"", ""drama""]","[""children_young_adult"", ""drama""]",children_young_adult,compound genre maps to multiple normalized labels
+231_247_0,Descriptive literature,"[""descriptive literature""]",[],other,no top-label rule matched
+16214_57691_0,Social critique,"[""social critique""]",[],other,no top-label rule matched
+14296_52339_0,"Drama, domestic fiction","[""drama"", ""domestic fiction""]","[""drama"", ""general_fiction""]",drama,compound genre maps to multiple normalized labels
+7263_11304_0,Epistolary novel,"[""epistolary novel""]",[],other,no top-label rule matched
+11598_35759_0,,[],[],other,missing genre_raw
+2411_47161_0,,[],[],other,missing genre_raw
+2081_64933_0,,[],[],other,missing genre_raw
+13599_51458_1,,[],[],other,missing genre_raw
+25305_60840_0,Erotic literature,"[""erotic literature""]",[],other,no top-label rule matched
+13221_49798_0,Psychological novel,"[""psychological novel""]",[],other,no top-label rule matched
+13016_47752_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+19cTexts_1860-69_BourHEM_batch502,Business or finance literature,"[""business or finance literature""]",[],other,no top-label rule matched
+402_65573_0,"Coming-of-age, humor","[""coming of age"", ""humor""]","[""children_young_adult"", ""comedy_satire""]",children_young_adult,compound genre maps to multiple normalized labels
+6696_7360_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+6471_58008_0,"Fiction, possibly adventure or coming-of-age","[""fiction"", ""possibly adventure or coming of age""]","[""general_fiction"", ""adventure""]",general_fiction,compound genre maps to multiple normalized labels
+707_117939_0,"Fiction, possibly adventure or crime","[""fiction"", ""possibly adventure or crime""]","[""general_fiction"", ""adventure""]",general_fiction,compound genre maps to multiple normalized labels
+18982_66948_0,Nonfiction,"[""nonfiction""]",[],other,no top-label rule matched
+1449_60266_0,,[],[],other,missing genre_raw
+23021_74569_0,"Fiction, possibly historical novel","[""fiction"", ""possibly historical novel""]","[""general_fiction"", ""historical""]",general_fiction,compound genre maps to multiple normalized labels
+11967_37820_0,Celebration literature,"[""celebration literature""]",[],other,no top-label rule matched
+5311_45197_1,,[],[],other,missing genre_raw
+18005_65623_0,,[],[],other,missing genre_raw
+12831_45314_0,,[],[],other,missing genre_raw
+18737_66797_0,,[],[],other,missing genre_raw
+29866_47168_0,,[],[],other,missing genre_raw
+13499_83130_0,"Mystery, adventure","[""mystery"", ""adventure""]","[""mystery_crime"", ""adventure""]",mystery_crime,compound genre maps to multiple normalized labels
+12562_42640_0,,[],[],other,missing genre_raw
+16670_59086_1,Social critique,"[""social critique""]",[],other,no top-label rule matched
+4313_61671_0,Feminist literature,"[""feminist literature""]",[],other,no top-label rule matched
+11928_37562_0,Satirical fiction,"[""satirical fiction""]",[],other,no top-label rule matched
+17731_76291_0,Maritime fiction,"[""maritime fiction""]",[],other,no top-label rule matched
+9330_103998_1,Nature/animal fiction,"[""nature"", ""animal fiction""]",[],other,no top-label rule matched
+49685_78082_0,,[],[],other,missing genre_raw
+3178_86838_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+12780_44750_0,,[],[],other,missing genre_raw
+7893_107625_0,Light-hearted fiction,"[""light hearted fiction""]",[],other,no top-label rule matched
+5985_5018_0,Tragic tale,"[""tragic tale""]",[],other,no top-label rule matched
+6593_17958_0,,[],[],other,missing genre_raw
+179_62279_0,"Fiction, possibly romance","[""fiction"", ""possibly romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+17896_64459_0,,[],[],other,missing genre_raw
+946_38166_1,"Romance, Drama","[""romance"", ""drama""]","[""romance"", ""drama""]",romance,compound genre maps to multiple normalized labels
+2057_99756_0,Adventure/horror,"[""adventure"", ""horror""]","[""adventure"", ""speculative""]",adventure,compound genre maps to multiple normalized labels
+3498_55962_0,"Poetry, possibly romantic poetry","[""poetry"", ""possibly romantic poetry""]","[""poetry"", ""romance""]",poetry,compound genre maps to multiple normalized labels
+215_83406_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+718_89687_0,"Fiction, philosophical reflection","[""fiction"", ""philosophical reflection""]","[""general_fiction"", ""religious_philosophical""]",general_fiction,compound genre maps to multiple normalized labels
+26235_137908_0,Autobiographical fiction,"[""autobiographical fiction""]",[],other,no top-label rule matched
+10604_27898_0,,[],[],other,missing genre_raw
+19cTexts_1800-09_DarwEM_batch143,Linguistics,"[""linguistics""]",[],other,no top-label rule matched
+527_123031_1,,[],[],other,missing genre_raw
+64676_1590_0,Ethnographic description,"[""ethnographic description""]",[],other,no top-label rule matched
+600_16581_0,"Fiction, possibly satire or social commentary","[""fiction"", ""possibly satire or social commentary""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+163_132958_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+14308_52419_0,Supernatural fiction,"[""supernatural fiction""]",[],other,no top-label rule matched
+236_112987_0,"Fantasy, children's literature","[""fantasy"", ""children s literature""]","[""speculative"", ""children_young_adult""]",speculative,compound genre maps to multiple normalized labels
+14354_53051_0,,[],[],other,missing genre_raw
+11206_32226_0,Scientific literature,"[""scientific literature""]",[],other,no top-label rule matched
+4412_133557_0,"Fiction, possibly a coming-of-age or family drama","[""fiction"", ""possibly a coming of age or family drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+12435_41316_0,,[],[],other,missing genre_raw
+10822_29703_0,,[],[],other,missing genre_raw
+5138_2825_0,,[],[],other,missing genre_raw
+12105_38588_0,Medical literature,"[""medical literature""]",[],other,no top-label rule matched
+10480_27485_0,,[],[],other,missing genre_raw
+18008_65716_0,Autobiographical,"[""autobiographical""]",[],other,no top-label rule matched
+12275_40077_0,,[],[],other,missing genre_raw
+20574_72040_0,,[],[],other,missing genre_raw
+7464_61899_0,Contemporary fiction,"[""contemporary fiction""]",[],other,no top-label rule matched
+3781_87959_1,"Mystery, fantasy","[""mystery"", ""fantasy""]","[""mystery_crime"", ""speculative""]",mystery_crime,compound genre maps to multiple normalized labels
+19cTexts_1840-49_OwenRLC_batch199,Scientific literature,"[""scientific literature""]",[],other,no top-label rule matched
+8173_15904_0,"Mystery, adventure","[""mystery"", ""adventure""]","[""mystery_crime"", ""adventure""]",mystery_crime,compound genre maps to multiple normalized labels
+4520_129138_0,Contemporary fiction,"[""contemporary fiction""]",[],other,no top-label rule matched
+19500_32603_0,Political literature,"[""political literature""]",[],other,no top-label rule matched
+2557_64950_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+20841_72646_0,Philosophical/religious essay,"[""philosophical"", ""religious essay""]","[""religious_philosophical"", ""nonfiction_essay""]",religious_philosophical,compound genre maps to multiple normalized labels
+17179_61036_0,Instructional text,"[""instructional text""]",[],other,no top-label rule matched
+63998_1482_0,,[],[],other,missing genre_raw
+11588_35509_0,,[],[],other,missing genre_raw
+5711_4091_0,Realist fiction,"[""realist fiction""]",[],other,no top-label rule matched
+7817_13315_0,Biographical,"[""biographical""]",[],other,no top-label rule matched
+46_36807_0,"Christmas story, moral tale","[""christmas story"", ""moral tale""]",[],other,no top-label rule matched
+2870_28808_0,,[],[],other,missing genre_raw
+17889_64318_0,,[],[],other,missing genre_raw
+1605_76731_1,Mythological fiction,"[""mythological fiction""]",[],other,no top-label rule matched
+8494_16678_0,,[],[],other,missing genre_raw
+10768_28825_0,Academic literature,"[""academic literature""]",[],other,no top-label rule matched
+236_112994_0,"Adventure, children's literature","[""adventure"", ""children s literature""]","[""adventure"", ""children_young_adult""]",adventure,compound genre maps to multiple normalized labels
+18228_66468_0,Realist fiction,"[""realist fiction""]",[],other,no top-label rule matched
+7236_11122_0,,[],[],other,missing genre_raw
+19885_69981_0,Non-specific,"[""non specific""]",[],other,no top-label rule matched
+133_78637_0,,[],[],other,missing genre_raw
+19cTexts_1880-89_DisrBE2_batch26,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+2409_47003_0,,[],[],other,missing genre_raw
+4785_802_0,Maritime fiction,"[""maritime fiction""]",[],other,no top-label rule matched
+17583_62568_0,Atmospheric prose,"[""atmospheric prose""]",[],other,no top-label rule matched
+12726_44159_0,Novel,"[""novel""]",[],other,no top-label rule matched
+14904_53618_0,Legal document,"[""legal document""]",[],other,no top-label rule matched
+21429_73714_0,,[],[],other,missing genre_raw
+6892_8559_0,Fictional tale,"[""fictional tale""]",[],other,no top-label rule matched
+19cTexts_1850-59_WhewWLH_batch150,"Non-fiction, philosophical analysis","[""non fiction"", ""philosophical analysis""]","[""nonfiction_essay"", ""religious_philosophical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+14354_53058_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+19cTexts_1800-09_BancAM_batch276,Eulogy,"[""eulogy""]",[],other,no top-label rule matched
+1652_111415_1,Survival fiction,"[""survival fiction""]",[],other,no top-label rule matched
+10002_53162_1,Adventure/mystery,"[""adventure"", ""mystery""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+16214_57693_0,,[],[],other,missing genre_raw
+19cTexts_1830-39_WilbRLW2_batch85,Diary,"[""diary""]",[],other,no top-label rule matched
+544_83689_0,,[],[],other,missing genre_raw
+2837_47639_0,Folklore/Mythology,"[""folklore"", ""mythology""]",[],other,no top-label rule matched
+10768_28834_0,Academic literature,"[""academic literature""]",[],other,no top-label rule matched
+6484_5788_0,,[],[],other,missing genre_raw
+5228_75784_1,Natural disaster,"[""natural disaster""]",[],other,no top-label rule matched
+20931_72772_0,,[],[],other,missing genre_raw
+4501_64874_1,,[],[],other,missing genre_raw
+19cTexts_1870-79_MainHVI_batch11,Legal theory,"[""legal theory""]",[],other,no top-label rule matched
+18228_66497_0,Epistolary,"[""epistolary""]",[],other,no top-label rule matched
+1856_74451_0,,[],[],other,missing genre_raw
+2005_41501_0,Contemporary fiction,"[""contemporary fiction""]",[],other,no top-label rule matched
+19cTexts_1840-49_CunnALS3_batch65,Personal correspondence,"[""personal correspondence""]",[],other,no top-label rule matched
+11037_31070_0,War fiction,"[""war fiction""]",[],other,no top-label rule matched
+1895_43451_0,Adventure/Travel,"[""adventure"", ""travel""]","[""adventure"", ""nonfiction_essay""]",adventure,compound genre maps to multiple normalized labels
+19cTexts_1830-39_WilbRLW_batch161,Diary,"[""diary""]",[],other,no top-label rule matched
+11529_35255_0,,[],[],other,missing genre_raw
+16443_58450_0,,[],[],other,missing genre_raw
+14271_52318_0,,[],[],other,missing genre_raw
+10712_53315_0,"Prose fiction, possibly a short story or an excerpt from a novel","[""prose fiction"", ""possibly a short story or an excerpt from a novel""]",[],other,no top-label rule matched
+395_74001_1,Allegory,"[""allegory""]",[],other,no top-label rule matched
+9082_22418_0,,[],[],other,missing genre_raw
+18220_66415_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+22026_74198_0,"Mystery, possibly romance","[""mystery"", ""possibly romance""]","[""mystery_crime"", ""romance""]",mystery_crime,compound genre maps to multiple normalized labels
+8895_18807_0,,[],[],other,missing genre_raw
+16082_56952_0,Advice literature,"[""advice literature""]",[],other,no top-label rule matched
+19888_70413_0,Social critique,"[""social critique""]",[],other,no top-label rule matched
+17410_61866_0,,[],[],other,missing genre_raw
+2228_21304_0,,[],[],other,missing genre_raw
+965_30090_0,,[],[],other,missing genre_raw
+8803_18155_0,Fictional dialogue,"[""fictional dialogue""]",[],other,no top-label rule matched
+19663_69299_0,Linguistics/phonetics,"[""linguistics"", ""phonetics""]",[],other,no top-label rule matched
+6362_88925_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+6966_8901_0,Cookbook,"[""cookbook""]",[],other,no top-label rule matched
+13260_94054_1,Erotic literature,"[""erotic literature""]",[],other,no top-label rule matched
+62330_79023_0,Folklore or fable,"[""folklore or fable""]",[],other,no top-label rule matched
+9827_25199_0,Novel,"[""novel""]",[],other,no top-label rule matched
+29866_47123_0,Survival story,"[""survival story""]",[],other,no top-label rule matched
+22024_74115_0,Autobiographical prose,"[""autobiographical prose""]",[],other,no top-label rule matched
+2815_111640_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+996_98508_1,Fable,"[""fable""]",[],other,no top-label rule matched
+19cTexts_1890-99_WoodEDR_batch145,"Poetry, literary criticism","[""poetry"", ""literary criticism""]","[""poetry"", ""nonfiction_essay""]",poetry,compound genre maps to multiple normalized labels
+12399_41099_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+39849_77314_0,Descriptive literature,"[""descriptive literature""]",[],other,no top-label rule matched
+11453_34681_0,Research report,"[""research report""]",[],other,no top-label rule matched
+13230_49940_0,,[],[],other,missing genre_raw
+15309_55013_0,,[],[],other,missing genre_raw
+11644_35934_0,,[],[],other,missing genre_raw
+17503_62391_0,,[],[],other,missing genre_raw
+11640_119750_0,Paranormal fiction,"[""paranormal fiction""]",[],other,no top-label rule matched
+11766_36705_0,,[],[],other,missing genre_raw
+13093_48172_0,Realistic novel,"[""realistic novel""]",[],other,no top-label rule matched
+158_20636_0,"Fiction, Romance","[""fiction"", ""romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+395_74050_0,Allegory,"[""allegory""]",[],other,no top-label rule matched
+2409_46998_0,"Fiction, possibly a philosophical or intellectual work","[""fiction"", ""possibly a philosophical or intellectual work""]","[""general_fiction"", ""religious_philosophical""]",general_fiction,compound genre maps to multiple normalized labels
+19cTexts_1820-29_SoutRLW_batch173,,[],[],other,missing genre_raw
+29828_110902_1,Biographical novel,"[""biographical novel""]",[],other,no top-label rule matched
+30017_6428_0,"Children's literature, fantasy","[""children s literature"", ""fantasy""]","[""children_young_adult"", ""speculative""]",children_young_adult,compound genre maps to multiple normalized labels
+16384_57857_0,,[],[],other,missing genre_raw
+2837_47617_0,Magical realism,"[""magical realism""]",[],other,no top-label rule matched
+19cTexts_1830-39_ClarGE3_batch236,,[],[],other,missing genre_raw
+9264_23685_0,Gardening guide,"[""gardening guide""]",[],other,no top-label rule matched
+2158_48647_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+6696_7257_0,,[],[],other,missing genre_raw
+4600_110501_1,Contemporary fiction,"[""contemporary fiction""]",[],other,no top-label rule matched
+19cTexts_1860-69_HopkJSE_batch69,Legal text,"[""legal text""]",[],other,no top-label rule matched
+3760_138350_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+14308_52460_0,,[],[],other,missing genre_raw
+1930_86519_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+556_104211_1,,[],[],other,missing genre_raw
+17896_64441_0,,[],[],other,missing genre_raw
+11070_31378_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+15421_55313_0,,[],[],other,missing genre_raw
+15346_55118_0,"Slice of life, humorous fiction","[""slice of life"", ""humorous fiction""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+1688_60453_0,Social realism,"[""social realism""]",[],other,no top-label rule matched
+22296_74457_0,,[],[],other,missing genre_raw
+12274_40032_0,"Non-fiction, possibly travel writing or historical commentary","[""non fiction"", ""possibly travel writing or historical commentary""]","[""nonfiction_essay"", ""historical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+7503_12059_0,,[],[],other,missing genre_raw
+4980_115840_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+20931_72788_0,,[],[],other,missing genre_raw
+15238_117370_0,Biographical analysis,"[""biographical analysis""]",[],other,no top-label rule matched
+11071_31516_0,Anthropological text,"[""anthropological text""]",[],other,no top-label rule matched
+10481_27516_0,,[],[],other,missing genre_raw
+11940_37667_0,Folk tale,"[""folk tale""]",[],other,no top-label rule matched
+19034_67469_0,,[],[],other,missing genre_raw
+19cTexts_1820-29_WrigFVS_batch206,Feminist literature,"[""feminist literature""]",[],other,no top-label rule matched
+21564_73800_0,,[],[],other,missing genre_raw
+730_84106_0,Tragic fiction,"[""tragic fiction""]",[],other,no top-label rule matched
+1245_39800_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+21970_75045_0,Post-apocalyptic fiction,"[""post apocalyptic fiction""]",[],other,no top-label rule matched
+2320_29397_0,,[],[],other,missing genre_raw
+19cTexts_1870-79_AdamHLA_batch255,Political history,"[""political history""]",[],other,no top-label rule matched
+2667_59169_1,Novel,"[""novel""]",[],other,no top-label rule matched
+15757_56845_0,Linguistics,"[""linguistics""]",[],other,no top-label rule matched
+12546_42478_0,Non-fiction (historical/religious,"[""non fiction historical"", ""religious""]","[""historical"", ""religious_philosophical""]",historical,compound genre maps to multiple normalized labels
+2837_47627_0,"Folklore, legend","[""folklore"", ""legend""]",[],other,no top-label rule matched
+12401_41160_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+2275_81278_1,Disaster fiction,"[""disaster fiction""]",[],other,no top-label rule matched
+527_123036_0,Maritime fiction,"[""maritime fiction""]",[],other,no top-label rule matched
+1941_111430_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+14794_53509_0,,[],[],other,missing genre_raw
+1260_2626_0,"Realistic fiction, coming-of-age","[""realistic fiction"", ""coming of age""]","[""general_fiction"", ""children_young_adult""]",general_fiction,compound genre maps to multiple normalized labels
+19013_66967_0,Educational,"[""educational""]",[],other,no top-label rule matched
+208_38149_0,Novel,"[""novel""]",[],other,no top-label rule matched
+10685_28497_0,Supernatural fiction,"[""supernatural fiction""]",[],other,no top-label rule matched
+6985_116061_0,Sports fiction,"[""sports fiction""]",[],other,no top-label rule matched
+17883_64285_0,,[],[],other,missing genre_raw
+13687_51820_0,Etiquette guide,"[""etiquette guide""]",[],other,no top-label rule matched
+19cTexts_1890-99_TennHAL2_batch91,Arthurian legend,"[""arthurian legend""]",[],other,no top-label rule matched
+4558_78306_0,"Drama, Romance","[""drama"", ""romance""]","[""drama"", ""romance""]",drama,compound genre maps to multiple normalized labels
+1144_115678_0,"Fiction, possibly romance","[""fiction"", ""possibly romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+4520_129193_0,,[],[],other,missing genre_raw
+746_79834_1,Business fiction,"[""business fiction""]",[],other,no top-label rule matched
+19cTexts_1830-39_CrocDNL_batch6,Anecdotal storytelling,"[""anecdotal storytelling""]",[],other,no top-label rule matched
+6966_8934_0,Cookbook,"[""cookbook""]",[],other,no top-label rule matched
+13258_50490_0,,[],[],other,missing genre_raw
+4708_71823_0,Erotic fiction,"[""erotic fiction""]",[],other,no top-label rule matched
+7812_13069_0,Epistolary novel,"[""epistolary novel""]",[],other,no top-label rule matched
+21816_59478_0,Fictional dialogue,"[""fictional dialogue""]",[],other,no top-label rule matched
+29828_110901_0,,[],[],other,missing genre_raw
+10819_28983_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+19cTexts_1820-29_MothWMA_batch54,Ballad,"[""ballad""]",[],other,no top-label rule matched
+11175_31922_0,Contemporary fiction,"[""contemporary fiction""]",[],other,no top-label rule matched
+8494_16683_0,,[],[],other,missing genre_raw
+1883_126091_1,Reflection/Descriptive prose,"[""reflection"", ""descriptive prose""]",[],other,no top-label rule matched
+271_54095_1,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+14904_53617_0,Legal document or constitution,"[""legal document or constitution""]",[],other,no top-label rule matched
+9824_25114_0,,[],[],other,missing genre_raw
+12276_40117_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+19cTexts_1830-39_DibdTRL_batch134,,[],[],other,missing genre_raw
+2370_38718_0,Adventure/Children's Literature,"[""adventure"", ""children s literature""]","[""adventure"", ""children_young_adult""]",adventure,compound genre maps to multiple normalized labels
+8074_14158_0,Nonfiction,"[""nonfiction""]",[],other,no top-label rule matched
+2324_106150_1,,[],[],other,missing genre_raw
+4394_133513_0,Epistolary literature,"[""epistolary literature""]",[],other,no top-label rule matched
+4085_104623_0,,[],[],other,missing genre_raw
+11207_32262_0,Political or patriotic speech,"[""political or patriotic speech""]",[],other,no top-label rule matched
+7381_42565_0,"Drama, psychological fiction","[""drama"", ""psychological fiction""]","[""drama"", ""general_fiction""]",drama,compound genre maps to multiple normalized labels
+15582_56168_0,Legal and administrative text,"[""legal"", ""administrative text""]",[],other,no top-label rule matched
+12627_43382_0,,[],[],other,missing genre_raw
+204_24605_1,,[],[],other,missing genre_raw
+226_43_0,Political oratory,"[""political oratory""]",[],other,no top-label rule matched
+220_29234_0,Nautical fiction,"[""nautical fiction""]",[],other,no top-label rule matched
+6470_5639_0,,[],[],other,missing genre_raw
+20701_72268_0,,[],[],other,missing genre_raw
+15582_56177_0,Legal document,"[""legal document""]",[],other,no top-label rule matched
+18008_65682_0,,[],[],other,missing genre_raw
+26742_139165_1,Literary Realism,"[""literary realism""]",[],other,no top-label rule matched
+154_71707_0,,[],[],other,missing genre_raw
+2340_37905_0,Psychological novel,"[""psychological novel""]",[],other,no top-label rule matched
+2314_29217_0,,[],[],other,missing genre_raw
+16562_58867_0,Academic speech or letter,"[""academic speech or letter""]",[],other,no top-label rule matched
+12117_38719_0,Biographical fiction,"[""biographical fiction""]",[],other,no top-label rule matched
+19cTexts_1840-49_MarrFPJ_batch56,,[],[],other,missing genre_raw
+1239_74203_0,Speech,"[""speech""]",[],other,no top-label rule matched
+25496_91549_1,"Coming-of-age, adventure","[""coming of age"", ""adventure""]","[""children_young_adult"", ""adventure""]",children_young_adult,compound genre maps to multiple normalized labels
+4501_64874_0,,[],[],other,missing genre_raw
+2402_38053_0,,[],[],other,missing genre_raw
+12165_38896_0,Philosophical/Religious essay,"[""philosophical"", ""religious essay""]","[""religious_philosophical"", ""nonfiction_essay""]",religious_philosophical,compound genre maps to multiple normalized labels
+12688_43940_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+9893_25588_0,Opera,"[""opera""]",[],other,no top-label rule matched
+14904_53628_0,Government document,"[""government document""]",[],other,no top-label rule matched
+9824_25044_0,Scientific article,"[""scientific article""]",[],other,no top-label rule matched
+521_5337_0,Survival fiction,"[""survival fiction""]",[],other,no top-label rule matched
+9049_22104_0,,[],[],other,missing genre_raw
+11286_32695_0,Biographical,"[""biographical""]",[],other,no top-label rule matched
+20006_70486_0,,[],[],other,missing genre_raw
+19cTexts_1870-79_YongCPF_batch228,Anthropological report,"[""anthropological report""]",[],other,no top-label rule matched
+64676_1615_0,Supernatural fiction,"[""supernatural fiction""]",[],other,no top-label rule matched
+4743_129293_0,Adventure/thriller,"[""adventure"", ""thriller""]","[""adventure"", ""mystery_crime""]",adventure,compound genre maps to multiple normalized labels
+11916_37312_0,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+13627_51717_0,,[],[],other,missing genre_raw
+63023_79102_0,,[],[],other,missing genre_raw
+15346_55132_0,,[],[],other,missing genre_raw
+1210_52942_0,"Non-fiction, religious/spiritual","[""non fiction"", ""religious"", ""spiritual""]","[""nonfiction_essay"", ""religious_philosophical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+15421_55305_0,Scholarly article,"[""scholarly article""]",[],other,no top-label rule matched
+32494_76604_0,Literary catalog or book description,"[""literary catalog or book description""]",[],other,no top-label rule matched
+6362_89035_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+2524_128890_0,"Historical fiction, drama","[""historical fiction"", ""drama""]","[""historical"", ""drama""]",historical,compound genre maps to multiple normalized labels
+482_28374_0,,[],[],other,missing genre_raw
+7481_116215_0,,[],[],other,missing genre_raw
+30537_36657_0,"Fantasy, Adventure","[""fantasy"", ""adventure""]","[""speculative"", ""adventure""]",speculative,compound genre maps to multiple normalized labels
+17406_61719_0,Realism,"[""realism""]",[],other,no top-label rule matched
+14670_53297_0,,[],[],other,missing genre_raw
+20783_72510_0,,[],[],other,missing genre_raw
+3817_62872_0,"Coming-of-age, family drama","[""coming of age"", ""family drama""]","[""children_young_adult"", ""drama""]",children_young_adult,compound genre maps to multiple normalized labels
+19cTexts_1890-99_ChurWRC_batch261,Sports fiction,"[""sports fiction""]",[],other,no top-label rule matched
+9830_15668_0,Autobiographical fiction,"[""autobiographical fiction""]",[],other,no top-label rule matched
+2726_4198_0,"Medical drama, coming-of-age","[""medical drama"", ""coming of age""]","[""drama"", ""children_young_adult""]",drama,compound genre maps to multiple normalized labels
+19cTexts_1880-89_HoweWRS_batch149,,[],[],other,missing genre_raw
+583_83809_0,Legal fiction,"[""legal fiction""]",[],other,no top-label rule matched
+11893_37155_0,War novel,"[""war novel""]",[],other,no top-label rule matched
+15680_56364_0,Medical literature,"[""medical literature""]",[],other,no top-label rule matched
+19cTexts_1830-39_ClarGE4_batch727,Biographical information,"[""biographical information""]",[],other,no top-label rule matched
+11893_37156_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+12246_39639_0,Dialogue or conversation,"[""dialogue or conversation""]",[],other,no top-label rule matched
+12230_39365_0,Political and military report,"[""political"", ""military report""]",[],other,no top-label rule matched
+13851_69623_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+19cTexts_1880-89_FarrFLF_batch468,Historical/Religious,"[""historical"", ""religious""]","[""historical"", ""religious_philosophical""]",historical,compound genre maps to multiple normalized labels
+5341_41836_0,"Coming-of-age, romance","[""coming of age"", ""romance""]","[""children_young_adult"", ""romance""]",children_young_adult,compound genre maps to multiple normalized labels
+2340_37885_0,"Coming-of-age novel, romance","[""coming of age novel"", ""romance""]","[""children_young_adult"", ""romance""]",children_young_adult,compound genre maps to multiple normalized labels
+20771_72405_0,Scientific article,"[""scientific article""]",[],other,no top-label rule matched
+19cTexts_1860-69_LiddHDO_batch207,"Non-fiction, historical analysis","[""non fiction"", ""historical analysis""]","[""nonfiction_essay"", ""historical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+2020_60660_0,Adventure/fantasy,"[""adventure"", ""fantasy""]","[""adventure"", ""speculative""]",adventure,compound genre maps to multiple normalized labels
+2420_47322_0,,[],[],other,missing genre_raw
+8895_18814_0,"Drama, romance","[""drama"", ""romance""]","[""drama"", ""romance""]",drama,compound genre maps to multiple normalized labels
+11071_31472_1,Anthropological study,"[""anthropological study""]",[],other,no top-label rule matched
+20841_72697_0,Realist fiction,"[""realist fiction""]",[],other,no top-label rule matched
+63493_1457_0,Mythological prose,"[""mythological prose""]",[],other,no top-label rule matched
+30232_76142_0,Epistolary,"[""epistolary""]",[],other,no top-label rule matched
+3499_15121_0,Contemporary fiction,"[""contemporary fiction""]",[],other,no top-label rule matched
+7522_100506_1,Social justice novel,"[""social justice novel""]",[],other,no top-label rule matched
+63023_79117_1,,[],[],other,missing genre_raw
+8961_21779_0,,[],[],other,missing genre_raw
+2335_29487_0,,[],[],other,missing genre_raw
+6980_139500_0,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+163_132961_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+12401_41149_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+20094_71136_0,,[],[],other,missing genre_raw
+12889_45864_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+18982_66949_1,,[],[],other,missing genre_raw
+19cTexts_1880-89_DextHCL_batch312,Academic/Research,"[""academic"", ""research""]",[],other,no top-label rule matched
+9330_103998_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+1184_2145_0,"Historical novel, mystery","[""historical novel"", ""mystery""]","[""historical"", ""mystery_crime""]",historical,compound genre maps to multiple normalized labels
+25776_120948_0,Dystopian fiction,"[""dystopian fiction""]",[],other,no top-label rule matched
+4980_115855_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+26502_75690_0,Fictional dialogue,"[""fictional dialogue""]",[],other,no top-label rule matched
+2408_38227_0,Epistolary novel,"[""epistolary novel""]",[],other,no top-label rule matched
+172_59831_0,"Fiction, Drama","[""fiction"", ""drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+19cTexts_1890-99_NewmEGO_batch126,"Non-fiction, historical analysis","[""non fiction"", ""historical analysis""]","[""nonfiction_essay"", ""historical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+2158_48734_1,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+4406_133519_1,Family saga,"[""family saga""]",[],other,no top-label rule matched
+12698_44035_0,,[],[],other,missing genre_raw
+19cTexts_1800-09_ScotWMS2_batch26,Literary analysis,"[""literary analysis""]",[],other,no top-label rule matched
+1098_123102_0,Contemporary fiction,"[""contemporary fiction""]",[],other,no top-label rule matched
+14768_53449_0,Tragic fiction,"[""tragic fiction""]",[],other,no top-label rule matched
+19cTexts_1800-09_HamiEF2_batch92,,[],[],other,missing genre_raw
+13036_47978_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+16082_56942_0,,[],[],other,missing genre_raw
+19884_69956_0,"Fiction, possibly comedy","[""fiction"", ""possibly comedy""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+19375_68288_0,,[],[],other,missing genre_raw
+10400_27289_0,Biographical literature,"[""biographical literature""]",[],other,no top-label rule matched
+1044_90926_0,Fictional dialogue,"[""fictional dialogue""]",[],other,no top-label rule matched
+16111_57306_0,Political literature,"[""political literature""]",[],other,no top-label rule matched
+12246_39593_0,,[],[],other,missing genre_raw
+2795_118545_0,"Coming-of-age, family drama","[""coming of age"", ""family drama""]","[""children_young_adult"", ""drama""]",children_young_adult,compound genre maps to multiple normalized labels
+19cTexts_1820-29_MurrLML_batch42,"Autobiography, religious literature","[""autobiography"", ""religious literature""]","[""nonfiction_essay"", ""religious_philosophical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+1450_3950_0,Fictional conversation,"[""fictional conversation""]",[],other,no top-label rule matched
+416_13260_1,"Coming-of-age, romance","[""coming of age"", ""romance""]","[""children_young_adult"", ""romance""]",children_young_adult,compound genre maps to multiple normalized labels
+19cTexts_1880-89_DisrBE_batch105,Social fiction,"[""social fiction""]",[],other,no top-label rule matched
+15347_55254_0,,[],[],other,missing genre_raw
+32691_76641_0,"Fiction, possibly adventure or mystery","[""fiction"", ""possibly adventure or mystery""]","[""general_fiction"", ""adventure""]",general_fiction,compound genre maps to multiple normalized labels
+3728_95511_0,Letter,"[""letter""]",[],other,no top-label rule matched
+30102_76096_0,,[],[],other,missing genre_raw
+21290_73105_0,,[],[],other,missing genre_raw
+7459_11686_0,,[],[],other,missing genre_raw
+16561_58850_0,Medical treatise,"[""medical treatise""]",[],other,no top-label rule matched
+19cTexts_1830-39_ClarGE4_batch417,Biographical or promotional piece,"[""biographical or promotional piece""]",[],other,no top-label rule matched
+19cTexts_1820-29_EdgeMHL_batch11,Educational/Informative,"[""educational"", ""informative""]",[],other,no top-label rule matched
+19cTexts_1880-89_DextHCL_batch1139,"Non-fiction, religious literature","[""non fiction"", ""religious literature""]","[""nonfiction_essay"", ""religious_philosophical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+19cTexts_1840-49_CunnALS3_batch201,,[],[],other,missing genre_raw
+2637_41635_0,Autobiographical fiction,"[""autobiographical fiction""]",[],other,no top-label rule matched
+18737_66833_0,"Realistic fiction, possibly historical fiction","[""realistic fiction"", ""possibly historical fiction""]","[""general_fiction"", ""historical""]",general_fiction,compound genre maps to multiple normalized labels
+12276_40144_0,Anthropological study,"[""anthropological study""]",[],other,no top-label rule matched
+19cTexts_1800-09_SoutRTD_batch32,,[],[],other,missing genre_raw
+19cTexts_1810-19_DavyHM_batch72,,[],[],other,missing genre_raw
+15115_54522_0,,[],[],other,missing genre_raw
+2409_46939_0,,[],[],other,missing genre_raw
+11769_36842_0,Military report,"[""military report""]",[],other,no top-label rule matched
+19cTexts_1820-29_AikiLMC2_batch110,Political critique,"[""political critique""]",[],other,no top-label rule matched
+19cTexts_1820-29_BadcJRL_batch393,,[],[],other,missing genre_raw
+25014_46983_0,,[],[],other,missing genre_raw
+16443_58537_0,,[],[],other,missing genre_raw
+215_83409_1,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+49685_78009_0,Reference,"[""reference""]",[],other,no top-label rule matched
+3536_31340_0,,[],[],other,missing genre_raw
+14995_53778_0,"Character study, social commentary","[""character study"", ""social commentary""]","[""general_fiction"", ""nonfiction_essay""]",general_fiction,compound genre maps to multiple normalized labels
+9314_107725_0,Medical fiction,"[""medical fiction""]",[],other,no top-label rule matched
+27142_75796_0,,[],[],other,missing genre_raw
+15347_55195_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+17035_60231_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+15724_56657_0,,[],[],other,missing genre_raw
+12889_45875_0,Cultural analysis,"[""cultural analysis""]",[],other,no top-label rule matched
+17410_61827_0,,[],[],other,missing genre_raw
+11293_32843_0,Art critique,"[""art critique""]",[],other,no top-label rule matched
+8915_19031_0,"Fantasy, mystery","[""fantasy"", ""mystery""]","[""speculative"", ""mystery_crime""]",speculative,compound genre maps to multiple normalized labels
+73_32966_0,War literature,"[""war literature""]",[],other,no top-label rule matched
+29220_77473_0,Experimental fiction,"[""experimental fiction""]",[],other,no top-label rule matched
+11024_30800_1,,[],[],other,missing genre_raw
+4282_100859_0,"Adventure, coming-of-age","[""adventure"", ""coming of age""]","[""adventure"", ""children_young_adult""]",adventure,compound genre maps to multiple normalized labels
+13507_51189_0,"Fiction, possibly psychological drama","[""fiction"", ""possibly psychological drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+2638_55401_0,"Fiction, possibly romance or drama","[""fiction"", ""possibly romance or drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+27174_125483_0,Christmas story,"[""christmas story""]",[],other,no top-label rule matched
+18737_66834_0,,[],[],other,missing genre_raw
+19cTexts_1880-89_HoweWRS_batch153,War story,"[""war story""]",[],other,no top-label rule matched
+532_111301_0,Rural literature,"[""rural literature""]",[],other,no top-label rule matched
+9082_22419_0,Prose,"[""prose""]",[],other,no top-label rule matched
+4600_110435_0,"Fiction, Drama","[""fiction"", ""drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+17341_61664_1,,[],[],other,missing genre_raw
+7512_12114_0,,[],[],other,missing genre_raw
+10215_26492_0,,[],[],other,missing genre_raw
+63998_1490_0,Anthropological study,"[""anthropological study""]",[],other,no top-label rule matched
+19500_32561_1,,[],[],other,missing genre_raw
+19cTexts_1840-49_LoveJMR_batch182,Personal correspondence,"[""personal correspondence""]",[],other,no top-label rule matched
+17503_62396_0,,[],[],other,missing genre_raw
+8895_18794_0,Descriptive prose,"[""descriptive prose""]",[],other,no top-label rule matched
+17338_61447_0,Political novel,"[""political novel""]",[],other,no top-label rule matched
+35817_77202_1,,[],[],other,missing genre_raw
+5104_2667_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+32_49087_0,"Fiction, possibly romance or domestic drama","[""fiction"", ""possibly romance or domestic drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+4501_64818_0,,[],[],other,missing genre_raw
+1268_7670_0,Technical manual,"[""technical manual""]",[],other,no top-label rule matched
+19885_69978_0,Self-help/Advice,"[""self help"", ""advice""]",[],other,no top-label rule matched
+13156_48969_0,,[],[],other,missing genre_raw
+12250_39750_0,Fable,"[""fable""]",[],other,no top-label rule matched
+16082_56928_0,,[],[],other,missing genre_raw
+6840_39232_1,"Fiction, possibly comedy","[""fiction"", ""possibly comedy""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+1587_131111_0,"Fiction, possibly drama or psychological novel","[""fiction"", ""possibly drama or psychological novel""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+19cTexts_1820-29_ElmeJML_batch375,Scientific literature,"[""scientific literature""]",[],other,no top-label rule matched
+1376_68747_0,"Fiction, possibly psychological drama","[""fiction"", ""possibly psychological drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+4553_110272_0,"Historical fiction, family drama","[""historical fiction"", ""family drama""]","[""historical"", ""drama""]",historical,compound genre maps to multiple normalized labels
+19cTexts_1890-99_NewmEGO_batch49,Music critique,"[""music critique""]",[],other,no top-label rule matched
+6927_120567_0,School story,"[""school story""]",[],other,no top-label rule matched
+2037_100723_0,Satirical fiction,"[""satirical fiction""]",[],other,no top-label rule matched
+3726_14413_1,Erotica,"[""erotica""]",[],other,no top-label rule matched
+19cTexts_1810-19_WilkJMM2_batch78,Legal document,"[""legal document""]",[],other,no top-label rule matched
+13851_69623_1,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+11596_35677_0,,[],[],other,missing genre_raw
+10825_29876_0,"Character study, family drama","[""character study"", ""family drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+11529_35217_0,Business fiction,"[""business fiction""]",[],other,no top-label rule matched
+12457_41597_0,,[],[],other,missing genre_raw
+19cTexts_1800-09_EdgeMF2_batch16,Epistolary fiction,"[""epistolary fiction""]",[],other,no top-label rule matched
+12399_41105_0,Fairy tale,"[""fairy tale""]",[],other,no top-label rule matched
+35817_77198_0,Moral tale,"[""moral tale""]",[],other,no top-label rule matched
+19cTexts_1820-29_EmmoRFO3_batch39,Supernatural fiction,"[""supernatural fiction""]",[],other,no top-label rule matched
+19cTexts_1860-69_BourHEM_batch448,Biographical literature,"[""biographical literature""]",[],other,no top-label rule matched
+27142_75795_0,Poetic prose,"[""poetic prose""]",[],other,no top-label rule matched
+19cTexts_1860-69_LeveCLA_batch9,Fictional dialogue,"[""fictional dialogue""]",[],other,no top-label rule matched
+11206_32190_0,Scientific text,"[""scientific text""]",[],other,no top-label rule matched
+13175_49007_0,,[],[],other,missing genre_raw
+4276_71457_0,"Drama, Romance","[""drama"", ""romance""]","[""drama"", ""romance""]",drama,compound genre maps to multiple normalized labels
+30142_4854_0,Contemporary fiction,"[""contemporary fiction""]",[],other,no top-label rule matched
+2391_88850_0,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+16489_58758_0,,[],[],other,missing genre_raw
+16489_58731_0,"Non-fiction, philosophical essay","[""non fiction"", ""philosophical essay""]","[""nonfiction_essay"", ""religious_philosophical""]",nonfiction_essay,compound genre maps to multiple normalized labels
+9200_22941_0,,[],[],other,missing genre_raw
+2602_128983_0,"Adventure, historical novel","[""adventure"", ""historical novel""]","[""adventure"", ""historical""]",adventure,compound genre maps to multiple normalized labels
+1825_79064_1,Animal fiction,"[""animal fiction""]",[],other,no top-label rule matched
+2351_137268_0,Political fiction,"[""political fiction""]",[],other,no top-label rule matched
+25305_60872_0,Erotic literature,"[""erotic literature""]",[],other,no top-label rule matched
+21289_73052_0,"Domestic fiction, comedy","[""domestic fiction"", ""comedy""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+19cTexts_1820-29_MothWMA_batch66,Folklore,"[""folklore""]",[],other,no top-label rule matched
+3424_61308_0,Survival fiction,"[""survival fiction""]",[],other,no top-label rule matched
+12247_39711_0,Sports or competition announcement,"[""sports or competition announcement""]",[],other,no top-label rule matched
+19cTexts_1860-69_FarrACH_batch372,Academic writing,"[""academic writing""]",[],other,no top-label rule matched
+17731_76345_0,,[],[],other,missing genre_raw
+30232_76143_0,"Slice of life, comedy","[""slice of life"", ""comedy""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+29452_24514_0,"Fiction, possibly drama","[""fiction"", ""possibly drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+7022_9432_0,Drama/Fantasy,"[""drama"", ""fantasy""]","[""drama"", ""speculative""]",drama,compound genre maps to multiple normalized labels
+514_1472_0,"Coming-of-age, family drama","[""coming of age"", ""family drama""]","[""children_young_adult"", ""drama""]",children_young_adult,compound genre maps to multiple normalized labels
+3728_95511_1,Epistolary,"[""epistolary""]",[],other,no top-label rule matched
+959_31767_1,"Fantasy, children's literature","[""fantasy"", ""children s literature""]","[""speculative"", ""children_young_adult""]",speculative,compound genre maps to multiple normalized labels
+25053_63977_0,Erotic literature,"[""erotic literature""]",[],other,no top-label rule matched
+2830_120318_0,Satirical short story,"[""satirical short story""]",[],other,no top-label rule matched
+560_68633_0,"Mystery, adventure","[""mystery"", ""adventure""]","[""mystery_crime"", ""adventure""]",mystery_crime,compound genre maps to multiple normalized labels
+19cTexts_1870-79_AlcoLOG_batch7,"Coming-of-age, historical fiction","[""coming of age"", ""historical fiction""]","[""children_young_adult"", ""historical""]",children_young_adult,compound genre maps to multiple normalized labels
+1190_118434_0,Realism,"[""realism""]",[],other,no top-label rule matched
+11024_30747_0,,[],[],other,missing genre_raw
+310_68384_0,Autobiographical fiction,"[""autobiographical fiction""]",[],other,no top-label rule matched
+11622_35781_0,Revenge novel,"[""revenge novel""]",[],other,no top-label rule matched
+20701_72263_0,Moral allegory,"[""moral allegory""]",[],other,no top-label rule matched
+30102_76095_0,,[],[],other,missing genre_raw
+8915_19032_0,"Coming-of-age, fantasy","[""coming of age"", ""fantasy""]","[""children_young_adult"", ""speculative""]",children_young_adult,compound genre maps to multiple normalized labels
+9158_22675_0,,[],[],other,missing genre_raw
+1947_25354_0,"Historical novel, romance","[""historical novel"", ""romance""]","[""historical"", ""romance""]",historical,compound genre maps to multiple normalized labels
+1688_60398_1,Social realism,"[""social realism""]",[],other,no top-label rule matched
+11323_76259_0,"Fiction, possibly romance","[""fiction"", ""possibly romance""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+9824_25047_0,Scientific article,"[""scientific article""]",[],other,no top-label rule matched
+19cTexts_1800-09_ScotWMS1_batch101,Ballad,"[""ballad""]",[],other,no top-label rule matched
+12399_41096_0,"Adventure, travel narrative","[""adventure"", ""travel narrative""]","[""adventure"", ""nonfiction_essay""]",adventure,compound genre maps to multiple normalized labels
+19cTexts_1860-69_RedpJPL_batch149,Legal document,"[""legal document""]",[],other,no top-label rule matched
+6892_8642_0,,[],[],other,missing genre_raw
+179_62309_0,"Fiction, perhaps romance or social novel","[""fiction"", ""perhaps romance or social novel""]","[""general_fiction"", ""romance""]",general_fiction,compound genre maps to multiple normalized labels
+11195_23201_0,,[],[],other,missing genre_raw
+19427_68410_0,Letter,"[""letter""]",[],other,no top-label rule matched
+12627_43383_0,Descriptive passage,"[""descriptive passage""]",[],other,no top-label rule matched
+16920_59213_0,Legal text,"[""legal text""]",[],other,no top-label rule matched
+11049_31184_0,Realism,"[""realism""]",[],other,no top-label rule matched
+62122_79001_0,,[],[],other,missing genre_raw
+2393_131397_0,Farming fiction,"[""farming fiction""]",[],other,no top-label rule matched
+4050_119507_0,"Fiction, possibly coming-of-age or family drama","[""fiction"", ""possibly coming of age or family drama""]","[""general_fiction"", ""drama""]",general_fiction,compound genre maps to multiple normalized labels
+21581_73867_0,Sermon,"[""sermon""]",[],other,no top-label rule matched
+26502_75703_0,"Fiction, possibly comedy or travelogue","[""fiction"", ""possibly comedy or travelogue""]","[""general_fiction"", ""comedy_satire""]",general_fiction,compound genre maps to multiple normalized labels
+2320_29394_0,,[],[],other,missing genre_raw
+19cTexts_1820-29_EganPLI_batch84,Art critique,"[""art critique""]",[],other,no top-label rule matched
+2100_19724_0,,[],[],other,missing genre_raw
+14620_53209_0,Political or patriotic literature,"[""political or patriotic literature""]",[],other,no top-label rule matched

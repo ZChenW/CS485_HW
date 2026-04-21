@@ -1,0 +1,87 @@
+{
+  "adventure": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 69.0
+  },
+  "children_young_adult": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 59.0
+  },
+  "comedy_satire": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 35.0
+  },
+  "drama": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 169.0
+  },
+  "general_fiction": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 136.0
+  },
+  "historical": {
+    "precision": 0.19079578139980824,
+    "recall": 1.0,
+    "f1-score": 0.32045088566827695,
+    "support": 199.0
+  },
+  "mystery_crime": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 52.0
+  },
+  "nonfiction_essay": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 119.0
+  },
+  "poetry": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 57.0
+  },
+  "religious_philosophical": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 43.0
+  },
+  "romance": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 63.0
+  },
+  "speculative": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 42.0
+  },
+  "accuracy": 0.19079578139980824,
+  "macro avg": {
+    "precision": 0.01589964844998402,
+    "recall": 0.08333333333333333,
+    "f1-score": 0.02670424047235641,
+    "support": 1043.0
+  },
+  "weighted avg": {
+    "precision": 0.03640303019996342,
+    "recall": 0.19079578139980824,
+    "f1-score": 0.06114067713133951,
+    "support": 1043.0
+  }
+}

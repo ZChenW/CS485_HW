@@ -1,0 +1,7 @@
+{
+  "dataset": "genre",
+  "model": "majority",
+  "split": "test",
+  "accuracy": 0.19079578139980824,
+  "macro_f1": 0.02670424047235641
+}

@@ -1,0 +1,5 @@
+dataset,model,split,accuracy,macro_f1
+enunciation,majority,dev,0.5416666666666666,0.14054054054054055
+enunciation,majority,test,0.5408333333333334,0.14040021633315306
+enunciation,tfidf_logreg,dev,0.7575,0.44110643334388905
+enunciation,tfidf_logreg,test,0.7216666666666667,0.4158666527109064

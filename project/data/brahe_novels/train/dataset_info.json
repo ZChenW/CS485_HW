@@ -1,0 +1,46 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "brahe-novels",
+  "dataset_size": 25330184,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/Pclanglais/Brahe-Novels@a1846f1dea88982b61dbe5eea107fbb2064d486a/brahe_novels.json": {
+      "num_bytes": 25783054,
+      "checksum": null
+    }
+  },
+  "download_size": 25783054,
+  "features": {
+    "instruction_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "full_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "analysis": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 51113238,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 25330184,
+      "num_examples": 8226,
+      "dataset_name": "brahe-novels"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

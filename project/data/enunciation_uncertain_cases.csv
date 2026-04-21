@@ -1,0 +1,230 @@
+instruction_id,enunciation_raw,enunciation_norm,reason
+12246_39693_0,,other,missing enunciation_raw
+6833_8234_0,,other,missing enunciation_raw
+1097_57185_0,Mr. Wegg and Mr. Boffin are speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+7240_11165_0,Edmund and Edgar are speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+11207_32250_0,Speaker addressing the audience,other,no first-pass rule matched
+9049_22064_0,Primislaus and Libussa,other,no first-pass rule matched
+10909_30160_0,Don Martin and Don Pedro are speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+7996_14122_0,Rustan and Zanga speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+19cTexts_1800-09_RamsDM_batch89,George Washington,other,no first-pass rule matched
+49685_78096_0,,other,missing enunciation_raw
+19024_67205_1,,other,missing enunciation_raw
+20783_72495_0,,other,missing enunciation_raw
+12459_41771_0,,other,missing enunciation_raw
+7232_11014_0,Juliette and the Amme are speaking,dialogue,mentions speech/speaking without explicit dialogue
+7264_11320_0,Oberon and Titania,other,no first-pass rule matched
+6593_18151_1,Partridge and Jones are speaking,dialogue,mentions speech/speaking without explicit dialogue
+7323_11654_0,Bolingbroke and Northumberland are speaking,dialogue,mentions speech/speaking without explicit dialogue
+13247_50224_0,Cardinal Mercier,other,no first-pass rule matched
+134_137986_0,The author speaking about their own work,dialogue,mentions speech/speaking without explicit dialogue
+6496_5852_0,"Don Cesar, Don Manuel, Isabella",other,no first-pass rule matched
+20999_72910_0,"D. Carlos, Izabel, D. Emilio, D. Ramon",other,no first-pass rule matched
+24020_62136_1,Tito is speaking to Bernardo,dialogue,mentions speech/speaking without explicit dialogue
+7240_11216_0,"Cordelia, Kent, doctor",other,no first-pass rule matched
+5880_4822_0,Jesus speaking,dialogue,mentions speech/speaking without explicit dialogue
+17410_61839_0,Two hermits speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+7267_11375_0,The narrator is speaking directly to the new servant,dialogue,mentions speech/speaking without explicit dialogue
+44217_77968_0,Margus and his grandmother are speaking,dialogue,mentions speech/speaking without explicit dialogue
+19cTexts_1860-69_HanaPAL_batch76,"Abraham Lincoln, President of the United States",other,no first-pass rule matched
+5178_3134_0,"Sganarelle, Gronimo",other,no first-pass rule matched
+19cTexts_1880-89_DextHCL_batch1137,Various authors speaking in their own works,dialogue,mentions speech/speaking without explicit dialogue
+12782_44825_0,Napoleon Bonaparte is speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+9260_23000_0,"Prometheus, Epimetheus, Minerva",other,no first-pass rule matched
+49685_78041_0,,other,missing enunciation_raw
+19cTexts_1850-59_GaskELC_batch78,Charlotte speaking to E,dialogue,mentions speech/speaking without explicit dialogue
+8738_17944_0,,other,missing enunciation_raw
+19cTexts_1880-89_DextHCL_batch749,,other,missing enunciation_raw
+9453_23899_0,Characters are speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+12246_39689_0,,other,missing enunciation_raw
+19cTexts_1880-89_DextHCL_batch799,Various speakers and authors,other,no first-pass rule matched
+15582_56200_0,,other,missing enunciation_raw
+19cTexts_1810-19_WilkJMM2_batch639,Multiple individuals speaking in the form of questions and answers,dialogue,mentions speech/speaking without explicit dialogue
+9158_22679_0,,other,missing enunciation_raw
+49685_78019_0,,other,missing enunciation_raw
+11769_36846_0,M. Pierre Bonaparte speaking,dialogue,mentions speech/speaking without explicit dialogue
+16372_57840_0,,other,missing enunciation_raw
+19888_70405_0,Teresita and Nicol,other,no first-pass rule matched
+2348_121333_0,Sherlock Holmes is speaking,dialogue,mentions speech/speaking without explicit dialogue
+544_83646_1,Miss Cornelia speaking to Anne,dialogue,mentions speech/speaking without explicit dialogue
+2870_28863_1,Mrs. Penniman,other,no first-pass rule matched
+12502_42130_0,Jesus speaking to priests and elders,dialogue,mentions speech/speaking without explicit dialogue
+19375_68293_0,,other,missing enunciation_raw
+16571_58889_1,King D. Diniz,other,no first-pass rule matched
+12230_39330_0,General Bonaparte is speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+19858_69719_0,Solness and Kaja are speaking,dialogue,mentions speech/speaking without explicit dialogue
+12547_42605_0,,other,missing enunciation_raw
+19cTexts_1880-89_DextHCL_batch1193,Cannot determine without the text,other,no first-pass rule matched
+6644_6801_0,Monologue,other,no first-pass rule matched
+6505_6075_0,Brigella and Truffaldin,other,no first-pass rule matched
+19cTexts_1880-89_FrouJTC2_batch327,,other,missing enunciation_raw
+14354_53049_0,First-person narrative (the landlord speaking,dialogue,mentions speech/speaking without explicit dialogue
+9951_25627_0,Andrew Carnegie speaking,dialogue,mentions speech/speaking without explicit dialogue
+15115_54597_0,Mother and son speaking,dialogue,mentions speech/speaking without explicit dialogue
+9891_25530_0,Madame Belmont is speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+5881_4935_0,Biblical narration,other,no first-pass rule matched
+12503_42175_0,Jesus is speaking to a group of individuals,dialogue,mentions speech/speaking without explicit dialogue
+19cTexts_1890-99_WardHHD_batch9,'Lias is speaking,dialogue,mentions speech/speaking without explicit dialogue
+828_9591_0,,other,missing enunciation_raw
+15309_55012_0,,other,missing enunciation_raw
+49685_78115_0,,other,missing enunciation_raw
+19cTexts_1810-19_WilkJMM3_batch313,The testimonies are given by various witnesses,other,no first-pass rule matched
+45_82_0,Anne and Marilla are speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+24486_75432_0,"The speaker is Per Swren, narrating his own experiences",other,no first-pass rule matched
+15582_56124_0,Papal authority,other,no first-pass rule matched
+19cTexts_1850-59_StowHUT_batch58,Tom and Haley are speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+17687_62811_0,,other,missing enunciation_raw
+5879_4715_0,,other,missing enunciation_raw
+9045_21952_0,The king speaking to his servants,dialogue,mentions speech/speaking without explicit dialogue
+11968_38244_0,,other,missing enunciation_raw
+16561_58849_0,Erasmus as the speaker,other,no first-pass rule matched
+15668_56252_0,,other,missing enunciation_raw
+10746_28614_0,,other,missing enunciation_raw
+8224_16302_0,The speaker is the poet,other,no first-pass rule matched
+4377_114662_0,Mrs. Wiggs is speaking to the children,dialogue,mentions speech/speaking without explicit dialogue
+1895_43572_0,Mr. Brock is speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+30102_76100_0,,other,missing enunciation_raw
+19cTexts_1850-59_PuseEDR_batch240,The text is a quote from a religious figure,other,no first-pass rule matched
+4080_64697_0,"Gyges, Lesbia, Kandaules",other,no first-pass rule matched
+13256_50313_0,The butterfly and ladybug are speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+8738_17923_0,,other,missing enunciation_raw
+6822_8137_0,,other,missing enunciation_raw
+12812_45129_0,,other,missing enunciation_raw
+19cTexts_1840-49_WhitJLR_batch213,The speaker is the one speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+66179_1996_0,The man and woman are speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+14822_53574_0,,other,missing enunciation_raw
+7050_129875_0,Clarence is speaking to his troops,dialogue,mentions speech/speaking without explicit dialogue
+6649_7170_0,,other,missing enunciation_raw
+12782_44929_0,Bonaparte speaking,dialogue,mentions speech/speaking without explicit dialogue
+876_103054_0,Mitchell and May are speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+18157_66000_0,,other,missing enunciation_raw
+7240_11176_0,Edgar and Edmund speak,other,no first-pass rule matched
+8560_17190_0,,other,missing enunciation_raw
+23685_74738_0,,other,missing enunciation_raw
+8468_16651_0,,other,missing enunciation_raw
+2335_29490_0,Wilhelm and Werner are speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+15291_55002_0,"Margit, Bengt, Gudmund, Signe",other,no first-pass rule matched
+9646_24824_0,,other,missing enunciation_raw
+19cTexts_1810-19_StewDBM_batch90,"Dr. Warburton, Mr. Millar, Mr. Garrick",other,no first-pass rule matched
+13230_49953_0,,other,missing enunciation_raw
+74_36854_1,Mr. Walters is speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+7186_10839_0,Sir Tobias and Hans Wurst,other,no first-pass rule matched
+15418_55280_0,Romeo and Juliet speak to each other,other,no first-pass rule matched
+2319_29335_0,The poet is speaking,dialogue,mentions speech/speaking without explicit dialogue
+12459_41775_0,,other,missing enunciation_raw
+20582_72088_0,Poetic voice,other,no first-pass rule matched
+30102_76108_0,,other,missing enunciation_raw
+15624_56212_0,,other,missing enunciation_raw
+110_112654_1,Mrs. Clare,other,no first-pass rule matched
+19cTexts_1810-19_WilkJMM_batch58,The court martial is speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+20701_72273_0,"Various speakers, including Diogo de Teive, Massillon, and Francisco Rodrigues Lobo",other,no first-pass rule matched
+9980_25873_0,,other,missing enunciation_raw
+1690_105888_0,Pieter Retief speaking,dialogue,mentions speech/speaking without explicit dialogue
+15624_56217_0,"The text is written in the first person, speaking to God",dialogue,mentions speech/speaking without explicit dialogue
+12246_39684_0,,other,missing enunciation_raw
+2143_20745_0,Jesus speaking to his disciples,dialogue,mentions speech/speaking without explicit dialogue
+5653_3935_0,Alcest and Sller are speaking,dialogue,mentions speech/speaking without explicit dialogue
+8560_17190_1,,other,missing enunciation_raw
+7232_10992_0,Romeo and Benvolio are speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+6831_8192_0,,other,missing enunciation_raw
+22045_74361_0,Sir Tobias and Sir Andreu are speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+5072_1164_0,Danton is speaking,dialogue,mentions speech/speaking without explicit dialogue
+13507_51165_0,Narrator,other,no first-pass rule matched
+17847_63588_0,"The speaker is not clearly identified, but it could be interpreted as a collective voice of mothers",other,no first-pass rule matched
+19cTexts_1880-89_DisrBE2_batch45,Imogene and Endymion are speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+19cTexts_1880-89_DextHCL_batch1290,,other,missing enunciation_raw
+1895_43545_0,Bashwood is speaking,dialogue,mentions speech/speaking without explicit dialogue
+6505_6068_0,Kalaf is speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+5072_1153_0,"Lucile, Camille, Danton",other,no first-pass rule matched
+7037_63090_0,Beric speaking to his followers,dialogue,mentions speech/speaking without explicit dialogue
+13192_49287_0,"Various speakers, including Emperor Napoleon Bonaparte",other,no first-pass rule matched
+5879_4570_0,Jesus speaking to his disciples,dialogue,mentions speech/speaking without explicit dialogue
+10819_29020_0,Pluizer is speaking to Johannes,dialogue,mentions speech/speaking without explicit dialogue
+5097_2438_0,Captain Nemo is speaking to the narrator,dialogue,mentions speech/speaking without explicit dialogue
+7933_13696_0,"Glendower, Hot-Spur, Mortimer",other,no first-pass rule matched
+12562_42640_0,Second-person narrative,other,no first-pass rule matched
+19cTexts_1880-89_DextHCL_batch929,Various authors speaking through their respective works,dialogue,mentions speech/speaking without explicit dialogue
+17503_62369_0,,other,missing enunciation_raw
+49685_78082_0,,other,missing enunciation_raw
+12865_45797_0,"Timothee, Mattea, Abul",other,no first-pass rule matched
+12780_44750_0,,other,missing enunciation_raw
+5985_5018_0,,other,missing enunciation_raw
+6496_5847_0,"Don Cesar, Beatrice, Chorus",other,no first-pass rule matched
+5880_4870_0,Jesus is speaking to his disciples,dialogue,mentions speech/speaking without explicit dialogue
+6637_6524_0,Habakuk and Rappelkopf are speaking,dialogue,mentions speech/speaking without explicit dialogue
+18330_66581_0,,other,missing enunciation_raw
+17889_64318_0,,other,missing enunciation_raw
+14904_53618_0,,other,missing enunciation_raw
+17906_64561_0,,other,missing enunciation_raw
+21429_73714_0,,other,missing enunciation_raw
+19858_69743_0,"Solness, Hilde, Dr. Herdal, Mrs. Solness",other,no first-pass rule matched
+19cTexts_1820-29_ScotWWC3_batch28,Doctor Rochecliffe and Alice are speaking,dialogue,mentions speech/speaking without explicit dialogue
+19cTexts_1850-59_EastMAP_batch96,The clergyman is speaking to a group of people,dialogue,mentions speech/speaking without explicit dialogue
+10768_28834_0,,other,missing enunciation_raw
+7945_13868_0,Medea and Jason,other,no first-pass rule matched
+11294_32876_0,,other,missing enunciation_raw
+10768_28836_0,,other,missing enunciation_raw
+40466_77346_0,,other,missing enunciation_raw
+11453_34681_0,,other,missing enunciation_raw
+13230_49940_0,,other,missing enunciation_raw
+15309_55013_0,,other,missing enunciation_raw
+19cTexts_1840-49_SabiLAL_batch193,,other,missing enunciation_raw
+10768_28835_0,,other,missing enunciation_raw
+17837_63361_0,Prospero is speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+9058_22167_0,Erny and Bancbanus,other,no first-pass rule matched
+624_75459_0,Dr. Leete is speaking,dialogue,mentions speech/speaking without explicit dialogue
+4080_64700_0,Rhodope and Kandaules,other,no first-pass rule matched
+940_12242_0,Heyward and Hawkeye are speaking,dialogue,mentions speech/speaking without explicit dialogue
+12893_45903_0,Napoleon Bonaparte,other,no first-pass rule matched
+4933_989_0,Second-person narrative,other,no first-pass rule matched
+29828_110901_0,,other,missing enunciation_raw
+14904_53617_0,,other,missing enunciation_raw
+11207_32262_0,First-person narrative (speech,dialogue,mentions speech/speaking without explicit dialogue
+15582_56168_0,Various speakers and participants in legal and administrative proceedings,other,no first-pass rule matched
+10971_30485_0,The teacher is speaking,dialogue,mentions speech/speaking without explicit dialogue
+9062_22289_0,Sappho and Phaon are speaking,dialogue,mentions speech/speaking without explicit dialogue
+12502_42105_0,Jesus speaking to the crowd,dialogue,mentions speech/speaking without explicit dialogue
+15582_56177_0,,other,missing enunciation_raw
+16562_58867_0,The speaker is addressing the illustrious curators of the academy,other,no first-pass rule matched
+1239_74203_0,Various Native American chiefs speaking,dialogue,mentions speech/speaking without explicit dialogue
+14904_53628_0,,other,missing enunciation_raw
+20006_70486_0,,other,missing enunciation_raw
+19cTexts_1860-69_LeveCLA_batch126,The narrator is speaking in the first person,dialogue,mentions speech/speaking without explicit dialogue
+766_70464_0,Aunt and Mr. Murdstone,other,no first-pass rule matched
+10821_29671_0,Multiple spirits speaking to Manfredo,dialogue,mentions speech/speaking without explicit dialogue
+12503_42157_0,"Jesus is speaking, as well as various other characters",dialogue,mentions speech/speaking without explicit dialogue
+20771_72408_0,,other,missing enunciation_raw
+9186_22819_0,Al-Hafi is speaking to Nathan,dialogue,mentions speech/speaking without explicit dialogue
+5881_4917_0,Jesus speaking to his disciples,dialogue,mentions speech/speaking without explicit dialogue
+20771_72417_0,,other,missing enunciation_raw
+19cTexts_1800-09_ScotWMS2_batch26,Narrator,other,no first-pass rule matched
+2233_34135_0,Keggs is speaking to Albert,dialogue,mentions speech/speaking without explicit dialogue
+19cTexts_1830-39_WilbRLW2_batch229,,other,missing enunciation_raw
+3726_14425_0,Zima is speaking directly to the knight's wife,dialogue,mentions speech/speaking without explicit dialogue
+10768_28838_0,,other,missing enunciation_raw
+17591_62612_0,Maria and Telmo speaking,dialogue,mentions speech/speaking without explicit dialogue
+30102_76096_0,,other,missing enunciation_raw
+19cTexts_1850-59_JessJLI2_batch192,,other,missing enunciation_raw
+19cTexts_1820-29_EdgeMHL_batch11,Lucy and Harry,other,no first-pass rule matched
+19cTexts_1880-89_DextHCL_batch1139,,other,missing enunciation_raw
+1752_49347_0,Marguerite and Mademoiselle Lange are speaking,dialogue,mentions speech/speaking without explicit dialogue
+19cTexts_1880-89_FarrFLF_batch50,Scholarly analysis,other,no first-pass rule matched
+6498_5891_0,First-person narrative (President speaking,dialogue,mentions speech/speaking without explicit dialogue
+6821_8063_0,"Majorin, Luffer, Graf Wermuth",other,no first-pass rule matched
+6831_8188_0,,other,missing enunciation_raw
+49685_78009_0,,other,missing enunciation_raw
+9200_22972_0,Fabian and Dr. Prosper Alpanus are speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+17035_60231_0,Don Pio Urbani speaking,dialogue,mentions speech/speaking without explicit dialogue
+12893_45919_0,Napoleon Bonaparte is speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+7945_13853_0,Jason and the King are speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+19cTexts_1800-09_AustBM_batch51,The narrator or author speaking,dialogue,mentions speech/speaking without explicit dialogue
+19cTexts_1810-19_WilkJMM2_batch78,Various individuals giving depositions,other,no first-pass rule matched
+12893_45934_0,Napoleon Bonaparte,other,no first-pass rule matched
+8568_17658_0,Hero and the priest are speaking,dialogue,mentions speech/speaking without explicit dialogue
+20999_72907_0,Izabel and Martinez are speaking in the text,dialogue,mentions speech/speaking without explicit dialogue
+9828_25268_0,Birds speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+9159_22689_0,Parmenio and Philotas are speaking to each other,dialogue,mentions speech/speaking without explicit dialogue
+29452_24514_0,Mrs. Lowder is speaking,dialogue,mentions speech/speaking without explicit dialogue
+9187_22937_0,Frulein and Tellheim,other,no first-pass rule matched
+30102_76095_0,,other,missing enunciation_raw
+5881_4910_0,"Jesus speaking to his disciples, Martha, and Mary",dialogue,mentions speech/speaking without explicit dialogue

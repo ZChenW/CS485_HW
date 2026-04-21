@@ -1,0 +1,7 @@
+{
+  "dataset": "enunciation",
+  "model": "tfidf_logreg",
+  "split": "dev",
+  "accuracy": 0.7575,
+  "macro_f1": 0.44110643334388905
+}
