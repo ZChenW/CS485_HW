@@ -1,0 +1,16 @@
+{
+  "candidate": "original_settings",
+  "ngram_range": [
+    1,
+    2
+  ],
+  "min_df": 2,
+  "max_df": 1.0,
+  "sublinear_tf": false,
+  "lowercase": true,
+  "stop_words": null,
+  "C": 1.0,
+  "class_weight": "balanced",
+  "solver": "lbfgs",
+  "task": "enunciation"
+}

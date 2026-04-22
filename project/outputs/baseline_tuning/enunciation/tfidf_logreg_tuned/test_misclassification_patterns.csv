@@ -1,0 +1,13 @@
+gold,prediction,count,gold_total,share_of_gold
+third_person,dialogue,81,649,0.12480739599383667
+first_person,third_person,60,289,0.20761245674740483
+dialogue,third_person,56,249,0.2248995983935743
+third_person,first_person,55,649,0.0847457627118644
+first_person,dialogue,41,289,0.14186851211072665
+dialogue,first_person,27,249,0.10843373493975904
+mixed,dialogue,7,10,0.7
+epistolary,first_person,2,3,0.6666666666666666
+mixed,third_person,2,10,0.2
+epistolary,third_person,1,3,0.3333333333333333
+mixed,first_person,1,10,0.1
+third_person,mixed,1,649,0.0015408320493066256

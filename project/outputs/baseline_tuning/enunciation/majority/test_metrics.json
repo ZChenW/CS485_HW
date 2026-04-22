@@ -1,0 +1,7 @@
+{
+  "dataset": "enunciation",
+  "model": "majority",
+  "split": "test",
+  "accuracy": 0.5408333333333334,
+  "macro_f1": 0.14040021633315306
+}

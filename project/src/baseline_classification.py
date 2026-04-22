@@ -68,7 +68,9 @@ def make_stratified_splits(
     counts = df["label"].value_counts()
     if (counts < 4).any():
         small = counts[counts < 4].to_dict()
-        raise ValueError(f"each label needs at least 4 rows for stratified 70/15/15 splits: {small}")
+        raise ValueError(
+            f"each label needs at least 4 rows for stratified 70/15/15 splits: {small}"
+        )
 
     train_df, temp_df = train_test_split(
         df,
@@ -143,7 +145,9 @@ def evaluate_predictions(
         output_dict=True,
         zero_division=0,
     )
-    misclassified = split_df.loc[pd.Series(y_true) != pd.Series(y_pred), ["text", "label"]].copy()
+    misclassified = split_df.loc[
+        pd.Series(y_true) != pd.Series(y_pred), ["text", "label"]
+    ].copy()
     misclassified["prediction"] = [
         pred for gold, pred in zip(y_true, y_pred, strict=True) if gold != pred
     ]
@@ -161,7 +165,9 @@ def save_confusion_matrix(
     fig_width = max(7, min(16, 0.75 * len(labels)))
     fig, ax = plt.subplots(figsize=(fig_width, fig_width))
     display = ConfusionMatrixDisplay(confusion_matrix=matrix, display_labels=labels)
-    display.plot(ax=ax, cmap="Blues", xticks_rotation=45, colorbar=False, values_format="d")
+    display.plot(
+        ax=ax, cmap="Blues", xticks_rotation=45, colorbar=False, values_format="d"
+    )
     ax.set_title(title)
     fig.tight_layout()
     fig.savefig(output_path, dpi=160)
@@ -180,7 +186,9 @@ def run_dataset(spec: DatasetSpec, output_root: str | Path, seed: int) -> pd.Dat
     test_df.to_csv(split_dir / "test.csv", index=False)
 
     labels = sorted(train_df["label"].unique())
-    (dataset_dir / "labels.json").write_text(json.dumps(labels, indent=2), encoding="utf-8")
+    (dataset_dir / "labels.json").write_text(
+        json.dumps(labels, indent=2), encoding="utf-8"
+    )
 
     models = {
         "majority": train_majority_baseline(train_df),
@@ -195,7 +203,9 @@ def run_dataset(spec: DatasetSpec, output_root: str | Path, seed: int) -> pd.Dat
 
         for split_name, split_df in {"dev": dev_df, "test": test_df}.items():
             predictions = model.predict(split_df["text"])
-            metrics, report, misclassified = evaluate_predictions(split_df, predictions, labels)
+            metrics, report, misclassified = evaluate_predictions(
+                split_df, predictions, labels
+            )
             metrics_with_context = {
                 "dataset": spec.name,
                 "model": model_name,
@@ -216,7 +226,9 @@ def run_dataset(spec: DatasetSpec, output_root: str | Path, seed: int) -> pd.Dat
                     "prediction": predictions,
                 }
             ).to_csv(model_dir / f"{split_name}_predictions.csv", index=False)
-            misclassified.to_csv(model_dir / f"{split_name}_misclassified.csv", index=False)
+            misclassified.to_csv(
+                model_dir / f"{split_name}_misclassified.csv", index=False
+            )
             save_confusion_matrix(
                 split_df,
                 predictions,
@@ -232,7 +244,9 @@ def run_dataset(spec: DatasetSpec, output_root: str | Path, seed: int) -> pd.Dat
 
 def parse_dataset_specs(values: list[str] | None) -> list[DatasetSpec]:
     if not values:
-        return [DatasetSpec(name, Path(path)) for name, path in DEFAULT_DATASETS.items()]
+        return [
+            DatasetSpec(name, Path(path)) for name, path in DEFAULT_DATASETS.items()
+        ]
 
     specs = []
     for value in values:
@@ -244,7 +258,9 @@ def parse_dataset_specs(values: list[str] | None) -> list[DatasetSpec]:
 
 
 def _write_json(path: str | Path, data: object) -> None:
-    Path(path).write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    Path(path).write_text(
+        json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
 
 def main() -> None:

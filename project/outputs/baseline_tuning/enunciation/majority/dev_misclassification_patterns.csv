@@ -1,0 +1,5 @@
+gold,prediction,count,gold_total,share_of_gold
+first_person,third_person,289,289,1.0
+dialogue,third_person,249,249,1.0
+mixed,third_person,9,9,1.0
+epistolary,third_person,3,3,1.0

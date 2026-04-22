@@ -1,0 +1,7 @@
+{
+  "dataset": "genre",
+  "model": "tfidf_logreg_tuned",
+  "split": "test",
+  "accuracy": 0.5062320230105465,
+  "macro_f1": 0.4689443434763121
+}

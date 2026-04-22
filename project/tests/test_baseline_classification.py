@@ -7,6 +7,11 @@ from src.baseline_classification import (
     make_stratified_splits,
     train_majority_baseline,
 )
+from src.tune_tfidf_logreg import (
+    best_candidate_from_dev_results,
+    build_tfidf_logreg_pipeline,
+    summarize_misclassification_patterns,
+)
 
 
 class BaselineClassificationTests(unittest.TestCase):
@@ -61,6 +66,76 @@ class BaselineClassificationTests(unittest.TestCase):
         self.assertIn("macro_f1", metrics)
         self.assertIn("a", report)
         self.assertEqual(misclassified.to_dict("records"), [{"text": "second", "label": "b", "prediction": "a"}])
+
+    def test_tfidf_logreg_pipeline_uses_explainable_parameters(self):
+        model = build_tfidf_logreg_pipeline(
+            {
+                "candidate": "unit",
+                "ngram_range": (1, 2),
+                "min_df": 1,
+                "max_df": 0.95,
+                "sublinear_tf": True,
+                "lowercase": True,
+                "stop_words": None,
+                "C": 0.5,
+                "class_weight": "balanced",
+                "solver": "lbfgs",
+            },
+            seed=7,
+        )
+
+        self.assertEqual(model.named_steps["tfidf"].ngram_range, (1, 2))
+        self.assertTrue(model.named_steps["tfidf"].sublinear_tf)
+        self.assertEqual(model.named_steps["clf"].C, 0.5)
+        self.assertEqual(model.named_steps["clf"].class_weight, "balanced")
+        self.assertEqual(model.named_steps["clf"].solver, "lbfgs")
+
+    def test_best_candidate_prefers_macro_f1_then_accuracy_then_simpler_rank(self):
+        dev_results = pd.DataFrame(
+            [
+                {"candidate": "larger", "macro_f1": 0.60, "accuracy": 0.80, "candidate_rank": 2},
+                {"candidate": "stronger", "macro_f1": 0.65, "accuracy": 0.70, "candidate_rank": 3},
+                {"candidate": "simpler", "macro_f1": 0.65, "accuracy": 0.70, "candidate_rank": 1},
+            ]
+        )
+
+        best = best_candidate_from_dev_results(dev_results)
+
+        self.assertEqual(best["candidate"], "simpler")
+
+    def test_summarize_misclassification_patterns_counts_error_pairs(self):
+        split = pd.DataFrame(
+            {
+                "text": ["a", "b", "c", "d"],
+                "label": ["dialogue", "dialogue", "mixed", "third_person"],
+            }
+        )
+
+        patterns = summarize_misclassification_patterns(
+            split,
+            predictions=["mixed", "mixed", "dialogue", "third_person"],
+            top_n=3,
+        )
+
+        self.assertEqual(
+            patterns.to_dict("records"),
+            [
+                {
+                    "gold": "dialogue",
+                    "prediction": "mixed",
+                    "count": 2,
+                    "gold_total": 2,
+                    "share_of_gold": 1.0,
+                },
+                {
+                    "gold": "mixed",
+                    "prediction": "dialogue",
+                    "count": 1,
+                    "gold_total": 1,
+                    "share_of_gold": 1.0,
+                },
+            ],
+        )
 
 
 if __name__ == "__main__":

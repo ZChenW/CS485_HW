@@ -1,0 +1,173 @@
+[
+  {
+    "candidate_rank": 1,
+    "candidate": "original_settings",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 1.0,
+    "sublinear_tf": false,
+    "lowercase": true,
+    "stop_words": null,
+    "C": 1.0,
+    "class_weight": "balanced",
+    "solver": "lbfgs",
+    "task": "enunciation",
+    "accuracy": 0.7575,
+    "macro_f1": 0.44110643334388905
+  },
+  {
+    "candidate_rank": 2,
+    "candidate": "unigrams_balanced",
+    "ngram_range": [
+      1,
+      1
+    ],
+    "min_df": 2,
+    "max_df": 1.0,
+    "sublinear_tf": true,
+    "lowercase": true,
+    "stop_words": null,
+    "C": 1.0,
+    "class_weight": "balanced",
+    "solver": "lbfgs",
+    "task": "enunciation",
+    "accuracy": 0.7325,
+    "macro_f1": 0.4267245810406572
+  },
+  {
+    "candidate_rank": 3,
+    "candidate": "bigrams_sublinear_C1",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 1.0,
+    "sublinear_tf": true,
+    "lowercase": true,
+    "stop_words": null,
+    "C": 1.0,
+    "class_weight": "balanced",
+    "solver": "lbfgs",
+    "task": "enunciation",
+    "accuracy": 0.7441666666666666,
+    "macro_f1": 0.43333861549518593
+  },
+  {
+    "candidate_rank": 4,
+    "candidate": "bigrams_sublinear_C0_5",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 1.0,
+    "sublinear_tf": true,
+    "lowercase": true,
+    "stop_words": null,
+    "C": 0.5,
+    "class_weight": "balanced",
+    "solver": "lbfgs",
+    "task": "enunciation",
+    "accuracy": 0.7275,
+    "macro_f1": 0.4229130611076929
+  },
+  {
+    "candidate_rank": 5,
+    "candidate": "bigrams_sublinear_C2",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 1.0,
+    "sublinear_tf": true,
+    "lowercase": true,
+    "stop_words": null,
+    "C": 2.0,
+    "class_weight": "balanced",
+    "solver": "lbfgs",
+    "task": "enunciation",
+    "accuracy": 0.7541666666666667,
+    "macro_f1": 0.4394081328869951
+  },
+  {
+    "candidate_rank": 6,
+    "candidate": "bigrams_min3_sublinear",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 3,
+    "max_df": 1.0,
+    "sublinear_tf": true,
+    "lowercase": true,
+    "stop_words": null,
+    "C": 1.0,
+    "class_weight": "balanced",
+    "solver": "lbfgs",
+    "task": "enunciation",
+    "accuracy": 0.7466666666666667,
+    "macro_f1": 0.4352395654359745
+  },
+  {
+    "candidate_rank": 7,
+    "candidate": "bigrams_unweighted_C1",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 1.0,
+    "sublinear_tf": true,
+    "lowercase": true,
+    "stop_words": null,
+    "C": 1.0,
+    "class_weight": NaN,
+    "solver": "lbfgs",
+    "task": "enunciation",
+    "accuracy": 0.7383333333333333,
+    "macro_f1": 0.4128525294926918
+  },
+  {
+    "candidate_rank": 8,
+    "candidate": "bigrams_maxdf_0_90",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 0.9,
+    "sublinear_tf": true,
+    "lowercase": true,
+    "stop_words": null,
+    "C": 1.0,
+    "class_weight": "balanced",
+    "solver": "lbfgs",
+    "task": "enunciation",
+    "accuracy": 0.7441666666666666,
+    "macro_f1": 0.43333861549518593
+  },
+  {
+    "candidate_rank": 9,
+    "candidate": "case_sensitive_bigrams",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 1.0,
+    "sublinear_tf": true,
+    "lowercase": false,
+    "stop_words": null,
+    "C": 1.0,
+    "class_weight": "balanced",
+    "solver": "lbfgs",
+    "task": "enunciation",
+    "accuracy": 0.7558333333333334,
+    "macro_f1": 0.4406264401169769
+  }
+]

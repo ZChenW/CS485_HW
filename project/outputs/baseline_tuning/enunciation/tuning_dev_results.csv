@@ -1,0 +1,10 @@
+candidate_rank,candidate,ngram_range,min_df,max_df,sublinear_tf,lowercase,stop_words,C,class_weight,solver,task,accuracy,macro_f1
+1,original_settings,"[1, 2]",2,1.0,False,True,,1.0,balanced,lbfgs,enunciation,0.7575,0.44110643334388905
+2,unigrams_balanced,"[1, 1]",2,1.0,True,True,,1.0,balanced,lbfgs,enunciation,0.7325,0.4267245810406572
+3,bigrams_sublinear_C1,"[1, 2]",2,1.0,True,True,,1.0,balanced,lbfgs,enunciation,0.7441666666666666,0.43333861549518593
+4,bigrams_sublinear_C0_5,"[1, 2]",2,1.0,True,True,,0.5,balanced,lbfgs,enunciation,0.7275,0.4229130611076929
+5,bigrams_sublinear_C2,"[1, 2]",2,1.0,True,True,,2.0,balanced,lbfgs,enunciation,0.7541666666666667,0.4394081328869951
+6,bigrams_min3_sublinear,"[1, 2]",3,1.0,True,True,,1.0,balanced,lbfgs,enunciation,0.7466666666666667,0.4352395654359745
+7,bigrams_unweighted_C1,"[1, 2]",2,1.0,True,True,,1.0,,lbfgs,enunciation,0.7383333333333333,0.4128525294926918
+8,bigrams_maxdf_0_90,"[1, 2]",2,0.9,True,True,,1.0,balanced,lbfgs,enunciation,0.7441666666666666,0.43333861549518593
+9,case_sensitive_bigrams,"[1, 2]",2,1.0,True,False,,1.0,balanced,lbfgs,enunciation,0.7558333333333334,0.4406264401169769

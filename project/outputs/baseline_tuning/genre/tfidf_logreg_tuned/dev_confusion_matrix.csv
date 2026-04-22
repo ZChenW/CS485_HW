@@ -1,0 +1,13 @@
+gold_label,adventure,children_young_adult,comedy_satire,drama,general_fiction,historical,mystery_crime,nonfiction_essay,poetry,religious_philosophical,romance,speculative
+adventure,49,3,1,1,5,6,3,0,0,0,0,1
+children_young_adult,4,33,0,2,8,2,2,2,2,0,2,2
+comedy_satire,0,2,5,6,4,7,6,2,1,0,0,2
+drama,2,2,1,78,28,7,11,7,8,5,19,1
+general_fiction,7,10,3,19,54,7,8,7,6,3,10,2
+historical,16,2,1,12,9,91,8,36,6,8,7,3
+mystery_crime,5,1,2,3,1,4,31,0,0,0,3,2
+nonfiction_essay,8,0,2,2,5,8,4,78,3,8,1,0
+poetry,0,0,0,8,0,0,0,2,41,3,3,0
+religious_philosophical,0,0,0,2,1,5,2,8,7,18,0,0
+romance,3,3,3,9,10,1,2,0,5,2,25,0
+speculative,4,5,0,3,1,4,8,2,1,0,1,13
